@@ -1,0 +1,121 @@
+{"data": [{"title": "İstanbul'un Fethi", "paragraphs":[{"qas":
+    [{
+        "question": "İstanbulu fetheden Osmanlı Padişahı kimdir?",
+        "id": 1,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "II. Mehmed"
+            }
+        ]
+    },
+    {
+        "question": "II. Mehmed nereyi fethetmiştir?",
+        "id": 2,
+        "answers": [
+            {
+                "answer_start": "196",
+                "text": "İstanbul'u"
+            }
+        ]
+    },
+    {
+        "question": "II. Mehmed hangi yılda İstanbul'u fethetmiştir?",
+        "id": 3,
+        "answers": [
+            {
+                "answer_start": "60",
+                "text": "1453"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlılar ilk kez hangi padişah komutasında İstanbulu'u kusaştmıştır?",
+        "id": 4,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "I. Bayezid"
+            }
+        ]
+    },
+    {
+        "question": "I. Beyazid İstanbulu ilk kez hangi yılda kuşatmıştır?",
+        "id": 5,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": " 1395 yılında"
+            }
+        ]
+    }],
+
+    "context": "İstanbul'un veya Kostantiniyye'nin Fethi, 6 Nisan-29 Mayıs 1453 tarihleri arasındaki kuşatmanın sonucunda 
+    Osmanlı Padişahı II. Mehmed komutasındaki birliklerin Bizans İmparatorluğu'nun başkenti İstanbul'u ele geçirmesi.İstanbul,
+    daha önce de defalarca kuşatılmıştı; VII.-VIII. asırlarda Emeviler ve Abbasiler tarafından kuşatıldı ancak başarısız olundu. 
+    Osmanlılar da şehri daha önce kuşatmıştı, Matheos Kantakuzinos'un 
+    Bizans tahtına geçmesini sağlamışlar ve ödül olarak Çimpe Kalesi'ni alarak Rumeli'de ilk kez toprak kazanmışlardı. 
+    Rumeli'ye geçişle beraber bölgede sınırları genişleyen Osmanlılar ilk kez I. Bayezid komutasında 1395 yılında İstanbul'u kuşattı. 
+    Bazı kaynaklarda ise 1391 tarihli farklı bir kuşatmadan söz edilmektedir. I. Bayezid'in kuşatmasında mancınıklar kullanıldı, 
+    kuşatma üzerine Macar Krallığı günümüz Bulgaristan topraklarına taarruz etti ve İstanbul kuşatması sonlandırıldı. 
+    Ertesi yıl kuşatma tekrar başladı ve bu sefer deniz bağlantısını tümüyle koparmak için Anadolu Hisarı inşa edildi. 
+    Bizans imparatorunun ateşkes talebi üzerine kuşatma kaldırıldı. Ankara Savaşı'yla beraber Osmanlı Devleti Fetret Devri'ne girdi. 
+    Bu dönemde Bayezid'in oğullarından Musa Çelebi tarafından 1412 yılında İstanbul tekrar kuşatıldı.Musa Çelebi, kargaşanın Bizans 
+    yüzünden olduğuna ve bazı rakip şehzadelerin Bizans tarafından desteklendiğine inanıyordu. Ancak rakip şehzadelerden I. Mehmed'in 
+    harekete geçmesi sebebiyle bu kuşatma da kaldırıldı. Dördüncü kuşatma ise II. Murad döneminde oldu; II. Murad elçiler göndererek 
+    Düzmece Mustafa'nın desteklenmemesini talep etti ancak karşılık bulamadı. İsyan ile uğraşan II. Murat, Şehzade Mustafa'ya yardım ettiğine 
+    inandığı Bizans İmparatorluğu'nun üzerine yürüdü ve kuşatma başladı. Bizans İmparatoru VII. İoannis'in Karadeniz kıyılarındaki bazı toprakları 
+    ve haraç vermeyi teklif etmesiyle bu kuşatma da kaldırıldı. II. Mehmed tahta geçtiğinde etrafı bütünüyle sarılmış bir şehirle karşı karşıyaydı."
+    
+    },
+
+    {"qas":
+    [{
+        "question": "Kırım savaşı hangi tarihler arasında olmuştur?",
+        "id": 1,
+        "answers": [
+            {
+                "answer_start": "14",
+                "text": "4 Ekim 1853-30 Mart 1856 tarihleri arasında"
+            }
+        ]
+    },
+    {
+        "question": "4 Ekim 1853-30 Mart 1856 tarihleri arasında olansavaşın adı nedir?",
+        "id": 2,
+        "answers": [
+            {
+                "answer_start": "0",
+                "text": "Kırım Savaşı"
+            }
+        ]
+    },
+    {
+        "question": "Kırım savaşı Osmanlı ile hangi devlet arasında oldu?",
+        "id": 3,
+        "answers": [
+            {
+                "answer_start": "..",
+                "text": "Rusya"
+            }
+        ]
+    },
+    {
+        "question": "Kırım Savaşı hangi ülkeler arasında olmuştur?",
+        "id": 4,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Osmanlı ile Rusya"
+            }
+        ]
+    }],
+
+    "context": "Kırım Savaşı, 4 Ekim 1853-30 Mart 1856 tarihleri arasındaki Osmanlı-Rus savaşıdır. 
+    Birleşik Krallık, Fransa ve Piyemonte-Sardinya'nın Osmanlı tarafında savaşa dâhil olmasıyla savaş, 
+    Avrupalı devletlerin Rusya'yı Avrupa ve Akdeniz dışında tutmak amacıyla verdiği 
+    bir savaş halini almıştır. Savaş, müttefik güçlerinin zaferiyle sonuçlanmıştır."
+    
+    }
+    
+    ]}]}

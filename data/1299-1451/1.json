@@ -1,0 +1,111 @@
+{"data": [{"title": "Osmanlı Beyliğinin Kuruluşu", "paragraphs":[{"qas":
+    [{
+        "question": "Osmanlı Beyliğinin ilk padişahı kimdir?",
+        "id": 1,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "İlk padişahı Osman Beydir."
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı Beyliği ne zaman kurulmuştur?",
+        "id": 2,
+        "answers": [
+            {
+                "answer_start": "196",
+                "text": "1299 yılında kurulmuştur."
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı Beyliği kim tarafından kurulmuştur?",
+        "id": 3,
+        "answers": [
+            {
+                "answer_start": "60",
+                "text": "Osman Bey tarafından kurulmuştur."
+            }
+        ]
+    },
+    {
+        "question": "Osman Beyin dedesi kimdir?",
+        "id": 4,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Süleyman Şah."
+            }
+        ]
+    },
+    {
+        "question": "Osman Beyin babası kimdir?",
+        "id": 5,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": " Ertuğrul Gazi."
+            }
+        ]
+    },
+    {
+        "question": "1301 yılında Osman Bey, arkadaşları ile birlikte nereyi fethetmiştir?",
+        "id": 6,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Yenişehiri fethetmiştir."
+            }
+        ]
+    },
+    {
+        "question": "Halil İnalcık'a göre Osmanlı Beyliği hangi savaş ile birlikte kurulmuştur?",
+        "id": 7,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Koyunhisar Savaşı ile kurulmuştur."
+            }
+        ]
+    },
+    {
+        "question": "Koyunhisar savaşını kim kazanmıştır?",
+        "id": 8,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Osmanlı Beyliği kazanmıştır."
+            }
+        ]
+    },
+    {
+        "question": "Koyunhisar savaşı hangi tarihte yapılmıştır?",
+        "id": 9,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "1302 yılında yapılmıştır."
+            }
+        ]
+    },
+    {
+        "question": "Koyunhisar savaşı hangi taraflar arasında yapılmıştır?",
+        "id": 10,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Bizans İmparatorluğu ve Osmanlı Beyliği arasında yapılmıştır."
+            }
+        ]
+    }
+    ],
+    
+    "context": "Osmanlı Beyliği, 1299'da resmen Osman Bey tarafından kuruldu. Osman Bey Osmanlı Beyliğinin ilk padişahı olan Türk hükümdar, dedesi Süleyman Şah babası ise Ertuğrul Gazidir.
+    Halil İnalcık'a göre ise beylik 1302'de gerçekleşen Koyunhisar Savaşı ile kurulmuştur. 
+    1302'de Bizans İmparatorluğu kuvvetleri, Osman Bey'i durdurmak için yola çıktı, Osmanlı Beyliği, Bizans İmparatorluğu ile yaptığı ilk savaş olarak kabul edilen Koyunhisar Savaşının'nin kazananı oldu.
+    1301 yılında Osman bey ve arkadaşları Yenişehiri fethetmiştir."
+
+ 
+    }    
+    ]}]}

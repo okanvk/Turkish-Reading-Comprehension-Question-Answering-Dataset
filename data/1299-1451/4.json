@@ -1,0 +1,32 @@
+
+
+
+{"data": [{"title": "Osman Bey", "paragraphs":[{"qas":
+    [{
+        "question": "Osman Bey ne zaman doğmuştur?",
+        "id": 1,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1258."
+            }
+        ]
+    },
+    {
+        "question": "Osman Bey ne zaman doğmuştur?",
+        "id": 1,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1258."
+            }
+        ]
+    }
+    
+
+    ],
+    
+    "context": " Input "
+    }    
+    ]}]}
+

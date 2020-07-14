@@ -15,7 +15,7 @@
         "answers": [
             {
                 "answer_start": "196",
-                "text": "1299 yılında kurulmuştur."
+                "text": "1299."
             }
         ]
     },
@@ -25,7 +25,7 @@
         "answers": [
             {
                 "answer_start": "60",
-                "text": "Osman Bey tarafından kurulmuştur."
+                "text": "Osman Bey."
             }
         ]
     },
@@ -85,7 +85,7 @@
         "answers": [
             {
                 "answer_start": "...",
-                "text": "1302 yılında yapılmıştır."
+                "text": "1302."
             }
         ]
     },
@@ -98,14 +98,191 @@
                 "text": "Bizans İmparatorluğu ve Osmanlı Beyliği arasında yapılmıştır."
             }
         ]
-    }
+    },
+    {
+        "question": "Osmanlı İmparatorluğu en geniş sınırlarına ne zaman ulaşmıştır?",
+        "id": 11,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "1683."
+            }
+        ]
+    },
+    {
+        "question": "Koyunhisar savaşı nerede gerçekleşmiştir?",
+        "id": 12,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Yalova."
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı Beyliği nerede kurulmuştur?",
+        "id": 13,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Söğüt."
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı Beyliği hangi bölgede ortaya çıkmıştır?",
+        "id": 14,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Batı Anadolu."
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı Beyliği Oğuzların hangi boyuna mensuptur?",
+        "id": 15,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Kayı."
+            }
+        ]
+    },
+    {
+        "question": "Batı Anadolu bölgesinde ortaya çıkan beyliklerden birisi kimdir?",
+        "id": 16,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Osmanlı Beyliği."
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı Beyliği Moğolların önünden nereye doğru yönelmiştir?",
+        "id": 17,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Anadolu."
+            }
+        ]
+    },    {
+        "question": "Türk devletleri içerisinde en uzun süre yaşayan devlet hangisidir?",
+        "id": 18,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Osmanlı Devleti."
+            }
+        ]
+    },
+    {
+        "question": "Türk devletleri içerisinde en geniş sınırlara ulaşan devlet hangisidir?",
+        "id": 19,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Osmanlı Devleti."
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı Beyliği ile Bizans İmparatorluğu arasında yapılan ilk savaş hangisidir?",
+        "id": 20,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Koyunhisar Savaşı."
+            }
+        ]
+    },
+    {
+        "question": "Turgut alp İnegöl kalesini kaç yılında kuşatmıştır?",
+        "id": 21,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "1299."
+            }
+        ]
+    },
+    {
+        "question": "İnegöl Kalesi kaç yılında kuşatılmıştır?",
+        "id": 22,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "1299."
+            }
+        ]
+    },
+    {
+        "question": "İnegöl Kalesi kim tarafından kuşatılmıştır?",
+        "id": 23,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Turgut Alp."
+            }
+        ]
+    },
+    {
+        "question": "Turgut Alp hangi kalenin Osmanlı Beyliği eline geçmesini sağlamıştır?",
+        "id": 24,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "İnegöl Kalesi."
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı Beyliği kaç yılında bağımsızlığını ilan etmiştir?",
+        "id": 25,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "1299"
+            }
+        ]
+    },
+    {
+        "question": "1299 hangi beylik bağımsızlığını ilan etmiştir?",
+        "id": 26,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Osmanlı Beyliği"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı Beyliğinin 1299'da bağımsızlığını ilan etmesinin sebebi nedir?",
+        "id": 27,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Anadolu'da ortaya çıkan otorite boşluğudur."
+            }
+        ]
+    },
+
+
     ],
     
     "context": "Osmanlı Beyliği, 1299'da resmen Osman Bey tarafından kuruldu. Osman Bey Osmanlı Beyliğinin ilk padişahı olan Türk hükümdar, dedesi Süleyman Şah babası ise Ertuğrul Gazidir.
-    Halil İnalcık'a göre ise beylik 1302'de gerçekleşen Koyunhisar Savaşı ile kurulmuştur. 
+    Halil İnalcık'a göre ise beylik 1302'de Yalovada gerçekleşen Koyunhisar Savaşı ile kurulmuştur. 
+    Osmanlı Beyliği Söğüt ilçesinde kurulmuştur.
     1302'de Bizans İmparatorluğu kuvvetleri, Osman Bey'i durdurmak için yola çıktı, Osmanlı Beyliği, Bizans İmparatorluğu ile yaptığı ilk savaş olarak kabul edilen Koyunhisar Savaşının'nin kazananı oldu.
-    1301 yılında Osman bey ve arkadaşları Yenişehiri fethetmiştir."
+    1301 yılında Osman bey ve arkadaşları Yenişehiri fethetmiştir.
+    Osmanlı İmparatorluğu en geniş sınırlarına 1683 yılında ulaşmıştır.
+    Osmanlı Beyliği, Batı Anadolu bölgesinde ortaya çıkan beyliklerden biridir. Moğolların önünden Anadolu’ya doğru yönelen Oğuzların Kayı boyuna mensuptur.
+    Türk devletleri içinde en uzun süre yaşayan ve en geniş sınırlara ulaşan devlet Osmanlı devletidir.
+    1299 yılında Turgut Alp İnegöl kalesini kuşatmış ve bu kalenin Osmanlı beyliği eline geçmesini sağlamıştır.
+    Osmanlı Beyliğinin 1299’da bağımsızlığını ilan etmesinin sebebi Anadolu’da ortaya çıkan otorite boşluğudur.
+    "
 
- 
     }    
     ]}]}

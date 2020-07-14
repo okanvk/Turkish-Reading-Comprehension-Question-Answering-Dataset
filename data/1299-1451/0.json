@@ -1,0 +1,225 @@
+{"data": [{"title": "Osmanlı Kuruluşu Sürecinde Anadolu'da Siyasi Ortam", "paragraphs":[{"qas":
+    [{
+        "question": "Alparslan kimdir?",
+        "id": 1,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Büyük Selçuklu hükümdarı."
+            }
+        ]
+    },
+    {
+        "question": "Büyük Selçuklu Hükümdarı kimdir?",
+        "id": 2,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Alparslan"
+            }
+        ]
+    },
+    {
+        "question": "1071 yılında kim mağlup edilmiştir?",
+        "id": 3,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "IV. Romanos Diogenis"
+            }
+        ]
+    },
+    {
+        "question": "IV. Romanos Diogenis ne zaman mağlup edilmiştir?",
+        "id": 4,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1071"
+            }
+        ]
+    },
+    {
+        "question": "IV. Romanos Diogenis nerede mağlup edilmiştir?",
+        "id": 5,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Malazgirt."
+            }
+        ]
+    },
+    {
+        "question": "IV. Romanos Diogenis kimdir?",
+        "id": 6,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Bizans İmparatoru."
+            }
+        ]
+    },
+    {
+        "question": "IV. Romanos Diogenis kimdir?",
+        "id": 7,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Bizans İmparatoru."
+            }
+        ]
+    },
+    {
+        "question": "IV. Romanos Diogenis kimdir?",
+        "id": 8,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Bizans İmparatoru."
+            }
+        ]
+    },
+    {
+        "question": "Anadolu Selçuklu Devleti Kösedağ Savaşı sonrasında hangi devletin vesayeti altına girmiştir?",
+        "id": 9,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "İlhanlı Devleti."
+            }
+        ]
+    },
+    {
+        "question": "",
+        "id": 10,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "İlhanlı Devleti."
+            }
+        ]
+    },
+    {
+        "question": "1243 yılında hangi savaş gerçekleşmiştir?",
+        "id": 11,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Kösedağ Savaşı."
+            }
+        ]
+    },
+    {
+        "question": "Kösedağ savaşı hangi yılda gerçekleşmiştir?",
+        "id": 12,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1243."
+            }
+        ]
+    },
+    {
+        "question": "Kösedağ Savaşında kim yenilmiştir.",
+        "id": 13,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Anadolu Selçuklu Devleti."
+            }
+        ]
+    },
+    {
+        "question": "Kösedağ savaşı hangi yılda gerçekleşmiştir?",
+        "id": 14,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1243."
+            }
+        ]
+    }
+    {
+        "question": "Kayılar 1071 Malazgirt Zaferi'nin ardından nereye gelmişlerdir?",
+        "id": 15,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Anadolu."
+            }
+        ]
+    },
+    {
+        "question": "1071 Malazgirt Zaferi'nin ardından Anadoluya kim gelmiştir?",
+        "id": 16,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Kayılar."
+            }
+        ]
+    },
+    {
+        "question": "I.Alaaddin Keykubat kimdir?",
+        "id": 17,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Anadolu Selçuklu Sultanı."
+            }
+        ]
+    },
+    {
+        "question": "Yassıçimen Savaşı ne zaman gerçekleşmiştir?",
+        "id": 18,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "1230."
+            }
+        ]
+    },
+    {
+        "question": "1230 yılında hangi savaş gerçekleşmiştir?",
+        "id": 19,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Yassıçimen Savaşı."
+            }
+        ]
+    },
+    {
+        "question": "Karacadağ yöresine kim yerleşmiştir?",
+        "id": 20,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Kayılar."
+            }
+        ]
+    },
+    {
+        "question": "Anadolu Beylikleri nedir?",
+        "id": 21,
+        "answers": [
+            {
+                "answer_start": "...",
+                "text": "Türklerin Malazgirt savaşın'dan sonra anadolu'da kurdukları devletlerdir."
+            }
+        ]
+    },
+
+    
+    ],
+    
+    "context": "
+    Büyük Selçuklu hükümdarı Alparslan'ın 1071 yılında Malazgirt'te Bizans imparatoru IV. Romanos Diogenis'i mağlup etmiştir.
+    Anadolu Beylikleri, Türklerin Malazgirt Savaşı'ndan sonra Anadolu’da kurdukları devletlerdir. 
+    Anadolu Selçuklu Devleti'nin 1243 yılında gerçekleşen Kösedağ Savaşı sonrasında yenilerek İlhanlı Devleti'nin vesayeti altına girmiştir.
+    Kayılar, 1071 Malazgirt Zaferi'nin ardından Anadolu'ya gelmişlerdir. Anadolu Selçuklu Sultanı I.Alaaddin Keykubat tarafından 1230 yılında gerçekleşen
+    Yassıçimen Savaşı sonrası kendilerine yurtluk olarak verilen Ankara yakınlarındaki karacadağ yöresine yerleşmişlerdir.
+    "
+
+    }    
+    ]}]}

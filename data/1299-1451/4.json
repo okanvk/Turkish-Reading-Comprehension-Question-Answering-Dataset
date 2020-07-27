@@ -1,32 +1,1027 @@
 
 
 
-{"data": [{"title": "Osman Bey", "paragraphs":[{"qas":
+{"data": [{"title": "Orhan Bey", "paragraphs":[{"qas":
     [{
-        "question": "Osman Bey ne zaman doğmuştur?",
+        "question": "Orhan Bey ne zaman doğmuştur?",
         "id": 1,
         "answers": [
             {
                 "answer_start": "125",
-                "text": "1258."
+                "text": "1281."
             }
         ]
     },
     {
-        "question": "Osman Bey ne zaman doğmuştur?",
-        "id": 1,
+        "question": "Orhan Bey ne zaman ölmüştür?",
+        "id": 2,
         "answers": [
             {
                 "answer_start": "125",
-                "text": "1258."
+                "text": "1362."
             }
         ]
-    }
-    
+    },
+    {
+        "question": "Orhan Bey 1281 yılında nerede doğmuştur?",
+        "id": 3,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Söğütte."
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey 1362 yılında nerede ölmüştür?",
+        "id": 4,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Bursada."
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey kaç yılında Bursada ölmüştür?",
+        "id": 5,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1362."
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey kaç yılında Söğütte doğmuştur?",
+        "id": 6,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1281."
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey Osmanlı İmparatorluğunun kaçıncı padişahıdır?",
+        "id": 7,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "ikinci."
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı İmparatorluğunun ikinci padişahı kimdir?",
+        "id": 8,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Orhan Bey."
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı İmparatorluğunun ikinci padişahı kaç yılları arasında beylik yapmıştır?",
+        "id": 9,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1326 ile 1359."
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey kaç yılları arasında beylik yapmıştır?",
+        "id": 10,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1326 ile 1359."
+            }
+        ]
+    },
+    {
+        "question": "Orhan Beyin babası kimdir?",
+        "id": 11,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Osman Gazi."
+            }
+        ]
+    },
+    {
+        "question": "Osman Gazi kimin babasıdır?",
+        "id": 12,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Orhan Bey."
+            }
+        ]
+    },
+    {
+        "question": "Orhan Beyin oğlu kimdir?",
+        "id": 13,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "I. Murad."
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey babası Osman Gazi'den aldığı devleti kaç kilometrekare almıştır?",
+        "id": 14,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "16000."
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey oğlu I Murad'a kaç kilometrekare olarak devlet bırakmıştır?",
+        "id": 15,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "95000."
+            }
+        ]
+    },
+    {
+        "question": "Bursa kuşatması kim döneminde başlamıştır?",
+        "id": 16,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Osman Gazi."
+            }
+        ]
+    },
+    {
+        "question": "Osman Gazi döneminde hangi kuşatma başlamıştır?",
+        "id": 17,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Bursa kuşatması."
+            }
+        ]
+    },
+    {
+        "question": "Bursa kuşatması kaç yılında son bulmuştur?",
+        "id": 18,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1326."
+            }
+        ]
+    },
+    {
+        "question": "1326 yılında hangi kuşatma son bulmuştur?",
+        "id": 19,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Bursa Kuşatması."
+            }
+        ]
+    },
+    {
+        "question": "Bursa kuşatması ne sebebiyle son buldu?",
+        "id": 19,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Tekfurun şehri teslimi."
+            }
+        ]
+    },
+    {
+        "question": "Beyliğin merkezi Yenişehir'den nereye taşınmıştır?",
+        "id": 20,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Bursa."
+            }
+        ]
+    },
+    {
+        "question": "Beyliğin merkezi nereden Bursa'ya taşındı?",
+        "id": 21,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Yenişehir."
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşının diğer adı nedir?",
+        "id": 22,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Palekanon."
+            }
+        ]
+    },
+    {
+        "question": "Palekanon savaşı kaç yılında gerçekleşmiştir?",
+        "id": 23,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1329."
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşı kaç yılında gerçekleşmiştir?",
+        "id": 24,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1329."
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşı hangi sebep ile gerçekleşmiştir?",
+        "id": 25,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Osmanlıların İznik'i kuşatması"
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşı kim ile kim arasında gerçekleşmiştir?",
+        "id": 26,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Osmanlı Beyliği ile Bizans"
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşı Osmanlı Beyliği ile kim arasında gerçekleşmiştir?",
+        "id": 27,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Bizans"
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşı kim ile Bizans arasında gerçekleşmiştir?",
+        "id": 28,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Osmanlı Beyliği"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı beyliği ile Bizans arasında gerçekleşen savaşı kim kazanmıştır?",
+        "id": 29,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Osmanlı Beyliğ"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı beyliği hangi savaşı kazanmıştır",
+        "id": 30,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Maltepe Savaşı"
+            }
+        ]
+    },
+    {
+        "question": "Yenilen bizans imparatoru ne yapmıştır?",
+        "id": 31,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "İstanbula kaçmıştır."
+            }
+        ]
+    },
+    {
+        "question": "Kim İstanbula kaçmıştır?",
+        "id": 32,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Yenilen Bizans imparatoru."
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşından sonra neresi fethedilmiştir?",
+        "id": 33,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "İznik"
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşından sonra İznik kaç yılında fethedilmiştir?",
+        "id": 34,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1331"
+            }
+        ]
+    },
+    {
+        "question": "İznik Maltepe savaşından sonra kaç yılında fethedilmiştir?",
+        "id": 35,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1331"
+            }
+        ]
+    },
+    {
+        "question": "İznik kaç yılında fethedilmiştir?",
+        "id": 36,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1331"
+            }
+        ]
+    },
+    {
+        "question": "Gemlik kaç yılında fethedilmiştir?",
+        "id": 37,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1333"
+            }
+        ]
+    },
+    {
+        "question": "1333 yılında neresi fethedilmiştir?",
+        "id": 38,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Gemlik"
+            }
+        ]
+    },
+    {
+        "question": "İzmit fethi kaç yılında gerçekleştirilmiştir?",
+        "id": 39,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1337"
+            }
+        ]
+    },
+    {
+        "question": "1337 yılında neresinin fethi gerçekleştirilmiştir?",
+        "id": 40,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "İzmit fethi"
+            }
+        ]
+    },
+    {
+        "question": "İzmit fethi ile hangi yarımadanın tamamı Osmanlıların eline geçti?",
+        "id": 41,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Kocaeli yarımadası"
+            }
+        ]
+    },
+    {
+        "question": "Kocaeli yarımadasının tamamı Osmanlıların eline nerenin fethi ile ele geçti?",
+        "id": 42,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "İzmit"
+            }
+        ]
+    },
+    {
+        "question": "Kocaeli yarımadasının ne kadarı Osmanlıları eline geçti?",
+        "id": 43,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "tamamı"
+            }
+        ]
+    },
+    {
+        "question": "Nerenin tamamı osmanlıların eline geçti?",
+        "id": 44,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Kocaeli yarımadasının"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlıların eline ne geçti?",
+        "id": 45,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Kocaeli yarımadasının tamamı"
+            }
+        ]
+    },
+    {
+        "question": "Kocaeli yarımadasının tamamı kimin eline geçti?",
+        "id": 46,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Osmanlıların"
+            }
+        ]
+    },
+    {
+        "question": "İzmit'in fethiyle kimin Anadolu'daki varlığı sona ermiştir?",
+        "id": 47,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Bizans'ın"
+            }
+        ]
+    },
+    {
+        "question": "Nerenin fethiyle Bizans'ın Anadolu'daki varlığı sona ermiştir?",
+        "id": 48,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "İzmit'in"
+            }
+        ]
+    },
+    {
+        "question": "Kimin Anadolu'daki varlığı sona ermiştir?",
+        "id": 49,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Bizans'ın"
+            }
+        ]
+    },
+    {
+        "question": "Palekanon savaşının diğer adı nedir?",
+        "id": 50,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Maltepe"
+            }
+        ]
+    },
+    {
+        "question": "Karesioğulları beyliği kaç yılında alınmıştır?",
+        "id": 51,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1345"
+            }
+        ]
+    },
+    {
+        "question": "1345 yılında hangi beylik alınmıştır?",
+        "id": 52,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Karesioğulları beyliği"
+            }
+        ]
+    },
+    {
+        "question": "1345 yılında ne alınmıştır*",
+        "id": 53,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Karesioğulları beyliği"
+            }
+        ]
+    },
+    {
+        "question": "Karesioğulları beyliği hangi yılda alınmıştır?",
+        "id": 54,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1345"
+            }
+        ]
+    },
+    {
+        "question": "Karesi Bey'in ölümüyle ne olmuştur?",
+        "id": 55,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Karesi Bey'in oğulları arasında taht kavgası olmuştur"
+            }
+        ]
+    },
+    {
+        "question": "Kimler arasında taht kavgası olmuştur?",
+        "id": 56,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Karesi Bey'in oğulları arasında"
+            }
+        ]
+    },
+    {
+        "question": "Karesi Bey'in oğulları arasında ne olmuştur",
+        "id": 57,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Taht kavgası"
+            }
+        ]
+    },
+    {
+        "question": "Taht kavgasından kim yararlanmıştır?",
+        "id": 58,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Orhan Bey"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey neyden yararlanmıştır?",
+        "id": 59,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Taht kavgasından"
+            }
+        ]
+    },
+    {
+        "question": "Balıkesir çevresine kim sahiptir?",
+        "id": 60,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Karesioğulları beyliği"
+            }
+        ]
+    },
+    {
+        "question": "Karesioğulları beyliği nereye sahiptir?",
+        "id": 61,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Balıkesir çevresine"
+            }
+        ]
+    },
+    {
+        "question": "Taht kavgalarından yararlanan Orhan bey ne yapmıştır?",
+        "id": 62,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Karesioğulları beyliğini Osmanlı sınırlarına kattı."
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı Devleti'ne katılan ilk beylik kimdir?",
+        "id": 63,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Karesioğulları"
+            }
+        ]
+    },
+    {
+        "question": "Karesioğulları kimdir?",
+        "id": 64,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Osmanlı Devleti'ne katılan ilk beyliktir."
+            }
+        ]
+    },
+    {
+        "question": "Ankara kaç yılında alınmıştır?",
+        "id": 65,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1345"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı Ankarayı kaç yılında alınmıştır?",
+        "id": 66,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1345"
+            }
+        ]
+    },
+    {
+        "question": "1345 yılında Osmanlı nereyi almıştır?",
+        "id": 67,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Ankara"
+            }
+        ]
+    },
+    {
+        "question": "1345 yılında Ankarayı kim almıştır?",
+        "id": 68,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Osmanlı"
+            }
+        ]
+    },
+    {
+        "question": "Ankarayı kim almıştır?",
+        "id": 69,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Osmanlı"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı nereyi almıştır?",
+        "id": 70,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Osmanlı"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey'in oğlu kimdir?",
+        "id": 71,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Süleyman Paşa"
+            }
+        ]
+    },
+    {
+        "question": "Süleyman Paşa kimin oğludur?",
+        "id": 72,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Orhan Bey"
+            }
+        ]
+    },
+    {
+        "question": "Ankarayı kim almıştır?",
+        "id": 73,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Süleyman Paşa"
+            }
+        ]
+    },
+    {
+        "question": "Süleyman Paşa nereyi almıştır?",
+        "id": 73,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Ankara"
+            }
+        ]
+    },
+    {
+        "question": "1353 yılında kim Rumeliye geçti?",
+        "id": 74,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Osmanlı"
+            }
+        ]
+    },
+    {
+        "question": "1353 yılında Osmanlı nereye geçti?",
+        "id": 76,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Rumeli"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı nereye geçti?",
+        "id": 77,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Rumeli"
+            }
+        ]
+    },
+    {
+        "question": "Rumeliye kim geçti?",
+        "id": 78,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Osmanlı"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı ne zaman Rumeliye geçti?",
+        "id": 79,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1353"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı hangi yılda Rumeliye geçti?",
+        "id": 80,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1353"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlıların Rumeli'de elde ettiği ilk toprak parçası nedir?",
+        "id": 81,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Çimpe kalesi"
+            }
+        ]
+    },
+    {
+        "question": "Çimpe kalesi nerede bulunur?",
+        "id": 82,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Gelibolu yarımadasında"
+            }
+        ]
+    },
+    {
+        "question": "Çimpe kalesi ne olmuştur?",
+        "id": 83,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Önemli bir askeri üs."
+            }
+        ]
+    },
+    {
+        "question": "Süleyman paşa ne olarak bilinir?",
+        "id": 84,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Gelibolu Fatihi"
+            }
+        ]
+    },
+    {
+        "question": "Çimpe Kalesi kaç yılında alınmıştır",
+        "id": 85,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "1353"
+            }
+        ]
+    },
+    {
+        "question": "1353 yılında alınan Gelibolu yarımadasında bulunan yer nedir?",
+        "id": 86,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Çimpe Kalesi"
+            }
+        ]
+    },
+    {
+        "question": "Hangi kale Osmanlıların Balkanlardaki fetihleri için önemli bir askeri üs olmuştur?",
+        "id": 87,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Çimpe Kalesi"
+            }
+        ]
+    },
+    {
+        "question": "Çimpe kalesi nedir?",
+        "id": 88,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Osmanlıların Balkanlardaki fetihleri için önemli bir askeri üs."
+            }
+        ]
+    },
+    {
+        "question": "Osmanlılarda ilk defa Beylikten Devlete hangi bey zamanında olmuştur?",
+        "id": 89,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Orhan Bey"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey zamanında Beylikten neye geçilmiştir?",
+        "id": 90,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Devlete"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey zamanında neyden devlete geçilmiştir?",
+        "id": 91,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Beylikten"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey döneminde ne olmuştur?",
+        "id": 92,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Beylikten Devlete geçilmiştir."
+            }
+        ]
+    },
+    {
+        "question": "İlk Osmanlı Veziri kimdir?",
+        "id": 93,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Orhan Bey'in kardeşi Alladdin Ali Paşadır."
+            }
+        ]
+    },
+    {
+        "question": "İlk Osmanlı Veziri kimdir?",
+        "id": 94,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Alladdin Ali Paşadır."
+            }
+        ]
+    },
+    {
+        "question": "Allaaddin Ali Paşa kimdir?",
+        "id": 95,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "İlk Osmanlı veziri."
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey'in kardeşi kimdir?",
+        "id": 96,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "İlk Osmanlı veziri."
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey'in kardeşi kimdir?",
+        "id": 97,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Alladdin Ali Paşadır."
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey neyi kurmuştur?",
+        "id": 98,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "İlk Vakfı."
+            }
+        ]
+    },
+    {
+        "question": "İlk Vakfı kim kurmuştur?",
+        "id": 99,
+        "answers": [
+            {
+                "answer_start": "125",
+                "text": "Orhan Bey."
+            }
+        ]
+    },
 
+    
     ],
     
-    "context": " Input "
+    "context": "
+    Orhan Bey 1281 yılında Söğütte doğmuştur. Orhan Bey 1362 yılında Bursada ölmüştür.
+    Osmanlı İmparatorluğu'nun ikinci padişahı olan Orhan Bey, 1326 ile 1359 yılları arasında beylik yapmıştır.
+    Orhan Bey babası Osman Gazi'den 16000 kilometrekare olarak aldığı devleti, oğlu I. Murad'a 95.000 kilometrekare olarak bırakmıştır.
+    Osman Gazi döneminde başlayan Bursa kuşatması, 1326 yılında tekfurun şehri teslimi sebebi ile son buldu.Böylece, beyliğin merkezi Yenişehir’den Bursa’ya taşındı.
+    Maltepe savaşı diğer adı ile Palekanon savaşı 1329 yılında gerçekleşmiştir. Osmanlıların İznik'i kuşatması sebebiyle gerçekleşmiştir. Maltepe Savaşı Osmanlı beyliği ile Bizans arasında olan savaşta Osmanlı Beyliği Maltepe savaşını kazanmıştır.
+    Yenilen bizans imparatoru İstanbula kaçmıştır. İznik Maltepe savaşından sonra 1331 yılında fethedilmiştir. Gemlik 1333 yılında fethedilmiştir.
+    İzmit fethi 1337 yılında gerçekleştirilmiştir. İzmit’in fethi ile Kocaeli yarımadasının tamamı Osmanlıların eline geçti. İzmit’in fethiyle Bizans’ın Anadolu’daki
+    varlığı sona ermiştir. Karesioğulları beyliği 1345 yılında alınmıştır. Karesi Bey'in ölümüyle, Karesi Bey'in oğulları arasında taht kavgası olmuştur. Taht kavgasından yararlanan Orhan Bey
+    Balıkesir çevresine sahip olan Karesioğulları beyliğini Osmanlı sınırlarına kattı. Osmanlı Devleti’ne katılan ilk beylik Karesioğulları’dır.
+    1345 yılında Osmanlı Ankarayı almıştır. Ankara’yı Orhan Bey'in oğlu Süleyman Paşa aldı. 1353 yılında Osmanlı Rumeliye geçti.
+    Osmanlıların Rumeli’de elde ettiği ilk toprak parçası 1353 yılında alınan Gelibolu yarımadasında bulunan Çimpe kalesidir. Çimpe kalesi Osmanlıların
+    Balkanlardaki fetihleri için önemli bir askeri üs olmuştur. Süleyman Paşa, Gelibolu Fatihi olarak bilinir.
+    Osmanlılarda ilk defa Beylikten Devlete geçiş Orhan Bey zamanında olmuştur.
+    İlk Osmanlı veziri Orhan Bey’in kardeşi Alladdin Ali Paşadır. İlk vakfı Orhan Bey kurmuştur
+    "
     }    
     ]}]}
 

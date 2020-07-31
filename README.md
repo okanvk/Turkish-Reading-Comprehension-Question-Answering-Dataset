@@ -63,7 +63,7 @@ Biz çalışmamızda bu algoritmayı kullanarak ve parametrelerini değiştirere
 
 | Model/Hyperparameters | epoch | max_seq_length | per_gpu_train_batch_size |
 |:----------------------|:-----:|:--------------:|:------------------------:|
-|     Electra           |       |     512        |                          |        
+|     Electra           |   5    |     512        |                          |        
 
 
 ### RESULTS

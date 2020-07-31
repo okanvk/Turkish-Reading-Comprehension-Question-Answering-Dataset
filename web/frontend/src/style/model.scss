@@ -1,0 +1,49 @@
+@import './variable';
+
+.contactText{
+        @include flexColumn();
+        width: 50% !important;
+        margin-top: 17vh !important;
+        background-color: $backgroundColor;
+        border: none;
+        border-bottom: 1px solid rgb(242,190,102);
+        text-align: center !important;
+        margin: 0 auto;
+        outline: none;
+}
+
+.startButtonn{
+    font-family: $textFontFamily;
+    font-style: normal;
+    font-weight: normal;
+    font-size: $logoFontSize;
+    color: $textColor !important;
+    -webkit-text-stroke: $textStroke;
+    background-color: $headerBackgroundColor;
+    border: none;
+    border-radius: 1vh;
+    text-align: center;
+    left: 0;
+    right: 0;
+    max-width: 900px;
+    width: 30vh;
+    letter-spacing: 1px;
+    margin-top: 10vh !important;
+    margin-left: 42%;
+
+    &:hover{
+        opacity: 0.8;
+    }
+
+}
+
+.middle{
+  margin-left: 40%;
+}
+
+.titleNotMargin{
+  text-align: center !important;
+  font-size: $fontSize;
+  color:$logoColor;
+  font-weight: bold;
+}

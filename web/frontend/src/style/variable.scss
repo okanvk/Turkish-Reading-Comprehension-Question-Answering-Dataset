@@ -1,0 +1,43 @@
+$backgroundColor: #F0F8FF;
+$headerBackgroundColor: #87CEFA;
+$textColor: #778899;
+$logoColor: rgb(242,190,102);
+$textStroke: 0.3px black;
+$fontSize: 2.1vh;
+$textSize: 1.5vh;
+$logoFontSize: 2.7vh;
+$footerFontSize:1.3vh;
+$textFontFamily: "Athiti";
+$letterSpace: 1px;
+$opacity: 0.5;
+
+@mixin flexColumn {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+@mixin flexRow {
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+@mixin gridImage {
+    text-align: center;
+    display:grid;
+    grid-gap:5px;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-auto-rows: 100px;
+    margin-top: 10vh;
+}
+
+@mixin contact{
+    width: 50% !important;
+    margin-top: 10vh !important;
+    height: 4vh !important;
+    text-align: center !important;
+    margin: 0 auto;
+    outline: none;
+}

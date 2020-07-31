@@ -1,0 +1,78 @@
+@import './variable';
+
+.title{
+    text-align: center !important;
+    font-size: $fontSize;
+    color:$logoColor;
+    margin-top: 5vh;
+    font-weight: bold;
+}
+
+.text{
+        font-size: $textSize;
+        text-align: justify !important;
+        margin: 20vh 20vh;
+        margin-top: 7vh;
+        color:$textColor;
+}
+
+.textt{
+        font-size: $textSize;
+        text-align: justify !important;
+        margin: 1.5vh 1.5vh;
+        margin-top: 7vh;
+        color:$textColor;
+}
+
+.qa{
+    @include flexColumn();
+    width: 50%;
+    margin: 0 auto;
+    justify-content: center;
+    border-radius: 2vh;
+    margin-top: 7vh;
+}
+
+.container{
+    @include gridImage();
+}
+
+
+.bertImage{
+    width: 35vh;
+    height: 35vh;
+}
+
+.proje{
+    margin-top: 85vh !important;
+    text-align: center;
+    font-size: $fontSize;
+    color:$logoColor;
+    font-weight: bold;
+}
+
+.textProje{
+    width: 50%;
+    margin: 0 auto;
+    text-align: justify;
+    color: $textColor;
+    font-size: $textSize;
+}
+
+footer{
+    color: $headerBackgroundColor;
+    width: 100%;
+    left: 0;
+    right: 0;
+    position: absolute;
+    margin-top: 15vh;
+
+    .footerText{ 
+        text-align: center ;
+        font-size: $footerFontSize;
+    }
+    
+    .footerText::before{
+        content: ' \00A9';
+    }
+}

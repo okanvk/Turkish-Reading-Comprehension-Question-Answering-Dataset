@@ -1,0 +1,45 @@
+@import './variable';
+
+header{
+        @include flexColumn();
+        background-color: $headerBackgroundColor;
+        color: $textColor;
+        -webkit-text-stroke: $textStroke;
+        width: 100%;
+        z-index: 1;
+
+        .home{
+        padding: 5px;
+        position: relative;
+        width: 50%;
+        font-family: $textFontFamily;
+        font-style: normal;
+        font-weight: normal;
+        font-size: $fontSize;
+        color: $textColor;
+        text-decoration: none;
+        -webkit-text-stroke: $textStroke;
+
+        &:hover{
+            font-weight: bold;
+        }
+    }
+
+        .header_user{
+        margin-left: auto;
+        align-items: left !important;
+    }
+
+        .logo{
+            color: $logoColor;
+            font-size: $logoFontSize;
+            text-decoration: none;
+            font-weight: bold;
+            -webkit-text-stroke: $textStroke;
+
+            &:hover{
+                font-weight: italic;
+            }
+        }
+
+}

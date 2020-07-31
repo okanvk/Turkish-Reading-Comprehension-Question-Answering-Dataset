@@ -1,0 +1,2846 @@
+{"data": [{"title": "Osmanlı Kuruluşu Sürecinde Anadolu'da Siyasi Ortam", "paragraphs":[{"qas":
+    [{
+        "question": "Alparslan kimdir?",
+        "id": 1,
+        "answers": [
+            {
+                "answer_start": 0,
+                "text": "Büyük Selçuklu hükümdarı"
+            }
+        ]
+    },
+    {
+        "question": "Büyük Selçuklu Hükümdarı kimdir?",
+        "id": 2,
+        "answers": [
+            {
+                "answer_start": 25,
+                "text": "Alparslan"
+            }
+        ]
+    },
+    {
+        "question": "1071 yılında kim mağlup edilmiştir?",
+        "id": 3,
+        "answers": [
+            {
+                "answer_start": 79,
+                "text": "IV. Romanos Diogenis"
+            }
+        ]
+    },
+    {
+        "question": "IV. Romanos Diogenis ne zaman mağlup edilmiştir?",
+        "id": 4,
+        "answers": [
+            {
+                "answer_start": 35,
+                "text": "1071"
+            }
+        ]
+    },
+    {
+        "question": "IV. Romanos Diogenis nerede mağlup edilmiştir?",
+        "id": 5,
+        "answers": [
+            {
+                "answer_start": 48,
+                "text": "Malazgirt"
+            }
+        ]
+    },
+    {
+        "question": "IV. Romanos Diogenis kimdir?",
+        "id": 6,
+        "answers": [
+            {
+                "answer_start": 61,
+                "text": "Bizans imparatoru"
+            }
+        ]
+    },
+    {
+        "question": "Bizans İmparatoru kimdir?",
+        "id": 7,
+        "answers": [
+            {
+                "answer_start": 79,
+                "text": "IV. Romanos Diogenis"
+            }
+        ]
+    },
+    {
+        "question": "Anadolu Selçuklu Devleti Kösedağ Savaşı sonrasında hangi devletin vesayeti altına girmiştir?",
+        "id": 8,
+        "answers": [
+            {
+                "answer_start": 302,
+                "text": "İlhanlı Devleti"
+            }
+        ]
+    },
+    {
+        "question": "Kösedağ savaşını kim kazanmıştır?",
+        "id": 9,
+        "answers": [
+            {
+                "answer_start": 302,
+                "text": "İlhanlı Devleti"
+            }
+        ]
+    },
+    {
+        "question": "1243 yılında hangi savaş gerçekleşmiştir?",
+        "id": 10,
+        "answers": [
+            {
+                "answer_start": 266,
+                "text": "Kösedağ Savaşı"
+            }
+        ]
+    },
+    {
+        "question": "Kösedağ savaşı hangi yılda gerçekleşmiştir?",
+        "id": 11,
+        "answers": [
+            {
+                "answer_start": 241,
+                "text": "1243"
+            }
+        ]
+    },
+    {
+        "question": "Kösedağ Savaşında kim yenilmiştir.",
+        "id": 12,
+        "answers": [
+            {
+                "answer_start": 212,
+                "text": "Anadolu Selçuklu Devleti"
+            }
+        ]
+    },
+    {
+        "question": "Kayılar 1071 Malazgirt Zaferi'nin ardından nereye gelmişlerdir?",
+        "id": 13,
+        "answers": [
+            {
+                "answer_start": 392,
+                "text": "Anadolu"
+            }
+        ]
+    },
+    {
+        "question": "1071 Malazgirt Zaferi'nin ardından Anadoluya kim gelmiştir?",
+        "id": 14,
+        "answers": [
+            {
+                "answer_start": 348,
+                "text": "Kayılar"
+            }
+        ]
+    },
+    {
+        "question": "I.Alaaddin Keykubat kimdir?",
+        "id": 15,
+        "answers": [
+            {
+                "answer_start": 417,
+                "text": "Anadolu Selçuklu Sultanı"
+            }
+        ]
+    },
+    {
+        "question": "Yassıçimen Savaşı ne zaman gerçekleşmiştir?",
+        "id": 16,
+        "answers": [
+            {
+                "answer_start": 473,
+                "text": "1230"
+            }
+        ]
+    },
+    {
+        "question": "1230 yılında hangi savaş gerçekleşmiştir?",
+        "id": 17,
+        "answers": [
+            {
+                "answer_start": 498,
+                "text": "Yassıçimen Savaşı"
+            }
+        ]
+    },
+    {
+        "question": "Karacadağ yöresine kim yerleşmiştir?",
+        "id": 18,
+        "answers": [
+            {
+                "answer_start": 348,
+                "text": "Kayılar"
+            }
+        ]
+    },
+    {
+        "question": "Anadolu Beylikleri nedir?",
+        "id": 19,
+        "answers": [
+            {
+                "answer_start": 138,
+                "text": "Türklerin Malazgirt Savaşı'ndan sonra Anadolu'da kurdukları devletlerdir"
+            }
+        ]
+    }
+  ],
+
+    "context": "Büyük Selçuklu hükümdarı Alparslan 1071 yılında Malazgirt'te Bizans imparatoru IV. Romanos Diogenis'i mağlup etmiştir.Anadolu Beylikleri, Türklerin Malazgirt Savaşı'ndan sonra Anadolu'da kurdukları devletlerdir. Anadolu Selçuklu Devleti'nin 1243 yılında gerçekleşen Kösedağ Savaşı sonrasında yenilerek İlhanlı Devleti'nin vesayeti altına girmiştir.Kayılar, 1071 Malazgirt Zaferi'nin ardından Anadolu'ya gelmişlerdir. Anadolu Selçuklu Sultanı I.Alaaddin Keykubat tarafından 1230 yılında gerçekleşen Yassıçimen Savaşı sonrası kendilerine yurtluk olarak verilen Ankara yakınlarındaki Karacadağ yöresine yerleşmişlerdir."
+
+    }
+  ]
+},
+{"title": "Osmanlı Beyliğinin Kuruluşu", "paragraphs":[{"qas":
+[{
+    "question": "Osmanlı Beyliğinin ilk padişahı kimdir?",
+    "id": 1,
+    "answers": [
+        {
+            "answer_start": 91,
+            "text": "İlk padişahı Osman Beydir"
+        }
+    ]
+},
+{
+    "question": "Osmanlı Beyliği ne zaman kurulmuştur?",
+    "id": 2,
+    "answers": [
+        {
+            "answer_start": 17,
+            "text": "1299"
+        }
+    ]
+},
+{
+    "question": "Osmanlı Beyliği kim tarafından kurulmuştur?",
+    "id": 3,
+    "answers": [
+        {
+            "answer_start": 32,
+            "text": "Osman Bey"
+        }
+    ]
+},
+{
+    "question": "Osman Beyin dedesi kimdir?",
+    "id": 4,
+    "answers": [
+        {
+            "answer_start": 131,
+            "text": "Süleyman Şah"
+        }
+    ]
+},
+{
+    "question": "Osman Beyin babası kimdir?",
+    "id": 5,
+    "answers": [
+        {
+            "answer_start": 155,
+            "text": " Ertuğrul Gazi"
+        }
+    ]
+},
+{
+    "question": "1301 yılında Osman Bey, arkadaşları ile birlikte nereyi fethetmiştir?",
+    "id": 6,
+    "answers": [
+        {
+            "answer_start": 549,
+            "text": "Yenişehiri fethetmiştir"
+        }
+    ]
+},
+{
+    "question": "Halil İnalcık'a göre Osmanlı Beyliği hangi savaş ile birlikte kurulmuştur?",
+    "id": 7,
+    "answers": [
+        {
+            "answer_start": 233,
+            "text": "Koyunhisar Savaşı ile kurulmuştur"
+        }
+    ]
+},
+{
+    "question": "Koyunhisar savaşını kim kazanmıştır?",
+    "id": 8,
+    "answers": [
+        {
+            "answer_start": 392,
+            "text": "Osmanlı Beyliği kazanmıştır"
+        }
+    ]
+},
+{
+    "question": "Koyunhisar savaşı hangi tarihte yapılmıştır?",
+    "id": 9,
+    "answers": [
+        {
+            "answer_start": 204,
+            "text": "1302"
+        }
+    ]
+},
+{
+    "question": "Koyunhisar savaşı hangi taraflar arasında yapılmıştır?",
+    "id": 10,
+    "answers": [
+        {
+            "answer_start": 392,
+            "text": "Bizans İmparatorluğu ve Osmanlı Beyliği arasında yapılmıştır"
+        }
+    ]
+},
+{
+    "question": "Osmanlı İmparatorluğu en geniş sınırlarına ne zaman ulaşmıştır?",
+    "id": 11,
+    "answers": [
+        {
+            "answer_start": 616,
+            "text": "1683"
+        }
+    ]
+},
+{
+    "question": "Koyunhisar savaşı nerede gerçekleşmiştir?",
+    "id": 12,
+    "answers": [
+        {
+            "answer_start": 212,
+            "text": "Yalova"
+        }
+    ]
+},
+{
+    "question": "Osmanlı Beyliği nerede kurulmuştur?",
+    "id": 13,
+    "answers": [
+        {
+            "answer_start": 284,
+            "text": "Söğüt"
+        }
+    ]
+},
+{
+    "question": "Osmanlı Beyliği hangi bölgede ortaya çıkmıştır?",
+    "id": 14,
+    "answers": [
+        {
+            "answer_start": 657,
+            "text": "Batı Anadolu"
+        }
+    ]
+},
+{
+    "question": "Osmanlı Beyliği Oğuzların hangi boyuna mensuptur?",
+    "id": 15,
+    "answers": [
+        {
+            "answer_start": 770,
+            "text": "Kayı"
+        }
+    ]
+},
+{
+    "question": "Batı Anadolu bölgesinde ortaya çıkan beyliklerden birisi kimdir?",
+    "id": 16,
+    "answers": [
+        {
+            "answer_start": 640,
+            "text": "Osmanlı Beyliği"
+        }
+    ]
+},
+{
+    "question": "Osmanlı Beyliği Moğolların önünden nereye doğru yönelmiştir?",
+    "id": 17,
+    "answers": [
+        {
+            "answer_start": 751,
+            "text": "Anadolu"
+        }
+    ]
+},    {
+    "question": "Türk devletleri içerisinde en uzun süre yaşayan devlet hangisidir?",
+    "id": 18,
+    "answers": [
+        {
+            "answer_start": 888,
+            "text": "Osmanlı Devletidir"
+        }
+    ]
+},
+{
+    "question": "Türk devletleri içerisinde en geniş sınırlara ulaşan devlet hangisidir?",
+    "id": 19,
+    "answers": [
+        {
+            "answer_start": 888,
+            "text": "Osmanlı Devleti"
+        }
+    ]
+},
+{
+    "question": "Osmanlı Beyliği ile Bizans İmparatorluğu arasında yapılan ilk savaş hangisidir?",
+    "id": 20,
+    "answers": [
+        {
+            "answer_start": 472,
+            "text": "Koyunhisar Savaşı"
+        }
+    ]
+},
+{
+    "question": "Turgut alp İnegöl kalesini kaç yılında kuşatmıştır?",
+    "id": 21,
+    "answers": [
+        {
+            "answer_start": 907,
+            "text": "1299"
+        }
+    ]
+},
+{
+    "question": "İnegöl Kalesi kaç yılında kuşatılmıştır?",
+    "id": 22,
+    "answers": [
+        {
+            "answer_start": 907,
+            "text": "1299"
+        }
+    ]
+},
+{
+    "question": "İnegöl Kalesi kim tarafından kuşatılmıştır?",
+    "id": 23,
+    "answers": [
+        {
+            "answer_start": 920,
+            "text": "Turgut Alp"
+        }
+    ]
+},
+{
+    "question": "Turgut Alp hangi kalenin Osmanlı Beyliği eline geçmesini sağlamıştır?",
+    "id": 24,
+    "answers": [
+        {
+            "answer_start": 931,
+            "text": "İnegöl kalesini"
+        }
+    ]
+},
+{
+    "question": "Osmanlı Beyliği kaç yılında bağımsızlığını ilan etmiştir?",
+    "id": 25,
+    "answers": [
+        {
+            "answer_start": 1033,
+            "text": "1299"
+        }
+    ]
+},
+{
+    "question": "1299 hangi beylik bağımsızlığını ilan etmiştir?",
+    "id": 26,
+    "answers": [
+        {
+            "answer_start": 1014,
+            "text": "Osmanlı Beyliği"
+        }
+    ]
+},
+{
+    "question": "Osmanlı Beyliğinin 1299'da bağımsızlığını ilan etmesinin sebebi nedir?",
+    "id": 27,
+    "answers": [
+        {
+            "answer_start": 1078,
+            "text": "Anadolu'da ortaya çıkan otorite boşluğudur"
+        }
+    ]
+}
+],
+
+"context": "Osmanlı Beyliği, 1299'da resmen Osman Bey tarafından kuruldu. Osman Bey Osmanlı Beyliğinin ilk padişahı olan Türk hükümdar, dedesi Süleyman Şah babası ise Ertuğrul Gazidir.Halil İnalcık'a göre ise beylik 1302'de Yalovada gerçekleşen Koyunhisar Savaşı ile kurulmuştur. Osmanlı Beyliği Söğüt ilçesinde kurulmuştur.1302'de Bizans İmparatorluğu kuvvetleri, Osman Bey'i durdurmak için yola çıktı, Osmanlı Beyliği, Bizans İmparatorluğu ile yaptığı ilk savaş olarak kabul edilen Koyunhisar Savaşının'nin kazananı oldu.1301 yılında Osman bey ve arkadaşları Yenişehiri fethetmiştir.Osmanlı İmparatorluğu en geniş sınırlarına 1683 yılında ulaşmıştır.Osmanlı Beyliği, Batı Anadolu bölgesinde ortaya çıkan beyliklerden biridir. Osmanlı beyliği Moğolların önünden Anadolu’ya doğru yönelen Oğuzların Kayı boyuna mensuptur.Türk devletleri içinde en uzun süre yaşayan ve en geniş sınırlara ulaşan devlet Osmanlı devletidir.1299 yılında Turgut Alp İnegöl kalesini kuşatmış ve bu kalenin Osmanlı beyliği eline geçmesini sağlamıştır.Osmanlı Beyliğinin 1299’da bağımsızlığını ilan etmesinin sebebi Anadolu'da ortaya çıkan otorite boşluğudur."
+}
+]},
+{"title": "Osman Bey", "paragraphs":[{"qas":
+  [{
+      "question": "Osman Bey ne zaman doğmuştur?",
+      "id": 1,
+      "answers": [
+          {
+              "answer_start": 10,
+              "text": "1258"
+          }
+      ]
+  },
+  {
+      "question": "Osman Bey nerede doğmuştur?",
+      "id": 2,
+      "answers": [
+          {
+              "answer_start": 23,
+              "text": "Söğüt’te"
+          }
+      ]
+  },
+  {
+      "question": "1258 yılında kim doğmuştur?",
+      "id": 3,
+      "answers": [
+          {
+              "answer_start": 0,
+              "text": "Osman Bey"
+          }
+      ]
+  },
+  {
+      "question": "Osman Bey hayatını nerede kaybetmiştir?",
+      "id": 4,
+      "answers": [
+          {
+              "answer_start": 67,
+              "text": "Bursa’da"
+          }
+      ]
+  },
+  {
+      "question": "Osman Bey hayatını ne zaman kaybetmiştir?",
+      "id": 5,
+      "answers": [
+          {
+              "answer_start": 59,
+              "text": "1326’da"
+          }
+      ]
+  },
+  {
+      "question": "1326'da Bursa'da hayatını kim kaybetmiştir",
+      "id": 6,
+      "answers": [
+          {
+              "answer_start": 39,
+              "text": "Osman Bey"
+          }
+      ]
+  },
+  {
+      "question": "1281 yılında kim evlenmiştir?",
+      "id": 7,
+      "answers": [
+          {
+              "answer_start": 111,
+              "text": "Osman Bey"
+          }
+      ]
+  },
+  {
+      "question": "1281 yılında Osman Bey kim ile evlenmiştir?",
+      "id": 8,
+      "answers": [
+          {
+              "answer_start": 182,
+              "text": "Malhun Hatun"
+          }
+      ]
+  },
+  {
+      "question": "Malhun Hatun kimin kızıdır?",
+      "id": 9,
+      "answers": [
+          {
+              "answer_start": 160,
+              "text": "Şeyh Edebali’nin"
+          }
+      ]
+  },
+  {
+      "question": "Şeyh Edebali hangi teşkilattandır.",
+      "id": 10,
+      "answers": [
+          {
+              "answer_start": 137,
+              "text": "Ahi teşkilatından"
+          }
+      ]
+  },
+  {
+      "question": "Osman Bey ile Malhun Hatun evliliğinden kim doğmuştur?",
+      "id": 11,
+      "answers": [
+          {
+              "answer_start": 272,
+              "text": "Orhan Gazi"
+          }
+      ]
+  },
+  {
+      "question": "Ertuğrul Bey kaç yaşında vefat etmiştir?",
+      "id": 13,
+      "answers": [
+          {
+              "answer_start": 334,
+              "text": "90"
+          }
+      ]
+  },
+  {
+      "question": "Osman Bey bursayı kaç yılında kuşatmıştır?",
+      "id": 14,
+      "answers": [
+          {
+              "answer_start": 361,
+              "text": "1326’da"
+          }
+      ]
+  },
+  {
+      "question": "Bursayı 1326 yılında kim kuşatmıştır?",
+      "id": 15,
+      "answers": [
+          {
+              "answer_start": 369,
+              "text": "Osman Bey,"
+          }
+      ]
+  },
+  {
+      "question": "Osman Beyin rahatsızlanması üzerine kuşatmaya kim devam etmiştir?",
+      "id": 16,
+      "answers": [
+          {
+              "answer_start": 450,
+              "text": "Orhan Bey"
+          }
+      ]
+  },
+  {
+      "question": "Osmanlı Beyliğinin ilk fethettiği ada hangisidir?",
+      "id": 17,
+      "answers": [
+          {
+              "answer_start": 674,
+              "text": "İmralı Adasıdır."
+          }
+      ]
+  },
+  {
+      "question": "İmralı Adası kaç yılında alınmıştır?",
+      "id": 18,
+      "answers": [
+          {
+              "answer_start": 704,
+              "text": "1308"
+          }
+      ]
+  },
+  {
+      "question": "İmralı Adası kim tarafından alınmıştır?",
+      "id": 19,
+      "answers": [
+          {
+              "answer_start": 717,
+              "text": "Osman Bey"
+          }
+      ]
+  },
+  {
+      "question": "Hangi Ada 1308 yılında alınmıştır.",
+      "id": 20,
+      "answers": [
+          {
+              "answer_start": 691,
+              "text": "İmralı Adası"
+          }
+      ]
+  },
+  {
+      "question": "Bursa alındıktan sonra ne olmuştur?",
+      "id": 21,
+      "answers": [
+          {
+              "answer_start": 495,
+              "text": "başkent yapılmıştır."
+          }
+      ]
+  },
+  {
+      "question": "İlk Osmanlı Parası kim tarafından bastırılmıştır?",
+      "id": 22,
+      "answers": [
+          {
+              "answer_start": 768,
+              "text": "Osman Bey"
+          }
+      ]
+  },
+  {
+      "question": "İlk Osmanlı Parası ne olarak bastırılmıştır?",
+      "id": 23,
+      "answers": [
+          {
+              "answer_start": 789,
+              "text": "bakır"
+          }
+      ]
+  },
+  {
+      "question": "Osmanlı Beyliğinin ilk başkenti neresidir?",
+      "id": 24,
+      "answers": [
+          {
+              "answer_start": 875,
+              "text": "Söğüttür."
+          }
+      ]
+  },
+  {
+      "question": "Osmanlı Beyliğinin ilk başkenti neresidir?",
+      "id": 25,
+      "answers": [
+          {
+              "answer_start": 875,
+              "text": "Söğüttür."
+          }
+      ]
+  },
+  {
+      "question": "Osmanlı tarihinde ilk savaş kim ile yapılmıştır?",
+      "id": 26,
+      "answers": [
+          {
+              "answer_start": 926,
+              "text": "Bizans tekfurlarıyla"
+          }
+      ]
+  },
+  {
+      "question": "Osmanlı tarihinde ilk savaşın adı nedir?",
+      "id": 27,
+      "answers": [
+          {
+              "answer_start": 955,
+              "text": "Ermeni Beli"
+          }
+      ]
+  },
+  {
+      "question": "Ermeni Beli savaşı kaç yılında yapılmıştır?",
+      "id": 28,
+      "answers": [
+          {
+              "answer_start": 913,
+              "text": "1284"
+          }
+      ]
+  },
+  {
+      "question": "1284 yılında hangi savaş yapılmıştır?",
+      "id": 29,
+      "answers": [
+          {
+              "answer_start": 955,
+              "text": "Ermeni Beli"
+          }
+      ]
+  },
+  {
+      "question": "1285 yılında hangi kale fethedilmiştir?",
+      "id": 30,
+      "answers": [
+          {
+              "answer_start": 1036,
+              "text": "Kolca Hisar Kalesi’dir."
+          }
+      ]
+  },
+  {
+      "question": "Kolca Hisar kalesi kaç yılında fethedilmiştir?",
+      "id": 31,
+      "answers": [
+          {
+              "answer_start": 1012,
+              "text": "1285"
+          }
+      ]
+  },
+  {
+      "question": "Osman Beyin ele geçirdiği ilk kale hangisidir?",
+      "id": 32,
+      "answers": [
+          {
+              "answer_start": 1036,
+              "text": "Kolca Hisar Kalesi’dir."
+          }
+      ]
+  },
+  {
+      "question": "Osman Beyin ele geçirdiği ilk kale kaç yılında fethedilmiştir?",
+      "id": 33,
+      "answers": [
+          {
+              "answer_start": 1012,
+              "text": "1285"
+          }
+      ]
+  },
+  {
+      "question": "Osmanlı beyliğinin ilk kadısı kimdir?",
+      "id": 34,
+      "answers": [
+          {
+              "answer_start": 1116,
+              "text": "Dursun Fakih’tir"
+          }
+      ]
+  },
+  {
+      "question": "Dursun Fakih kimdir?",
+      "id": 35,
+      "answers": [
+          {
+              "answer_start": 1059,
+              "text": "Osmanlı beyliğinin ilk kadısı"
+          }
+      ]
+  },
+  {
+      "question": "Dursun Fakih hangi padişah döneminde atanmıştır?",
+      "id": 36,
+      "answers": [
+          {
+              "answer_start": 1089,
+              "text": "Osman Bey"
+          }
+      ]
+  },
+  {
+      "question": "Osman Bey döneminde kadı olarak kim atanmıştır?",
+      "id": 37,
+      "answers": [
+          {
+              "answer_start": 1116,
+              "text": "Dursun Fakih"
+          }
+      ]
+  },
+  {
+      "question": "Osman Bey 1288 yılında nereyi fethetti?",
+      "id": 38,
+      "answers": [
+          {
+              "answer_start": 1156,
+              "text": "Karacahisarı"
+          }
+      ]
+  },
+  {
+      "question": "Osman Bey 1289 yılında nereyi fethetti?",
+      "id": 39,
+      "answers": [
+          {
+              "answer_start": 1202,
+              "text": "Bilecik'i"
+          }
+      ]
+  },
+  {
+      "question": "1289 yılında kim Bileciği fethetti?",
+      "id": 40,
+      "answers": [
+          {
+              "answer_start": 1179,
+              "text": "Osman Bey"
+          }
+      ]
+  },
+  {
+      "question": "1288 yılında kim Karacahisarı fethetti?",
+      "id": 41,
+      "answers": [
+          {
+              "answer_start": 1133,
+              "text": "Osman Bey"
+          }
+      ]
+  },
+  {
+      "question": "Osman Bey Karacahisarı hangi yılda fethetti?",
+      "id": 42,
+      "answers": [
+          {
+              "answer_start": 1143,
+              "text": "1288"
+          }
+      ]
+  },
+  {
+      "question": "Osman Bey Bilecik'i hangi yılda fethetti?",
+      "id": 43,
+      "answers": [
+          {
+              "answer_start": 1189,
+              "text": "1299"
+          }
+      ]
+  },
+  {
+      "question": "İlk Osmanlı parası ne adı ile bastırılmıştır?",
+      "id": 44,
+      "answers": [
+          {
+              "answer_start": 802,
+              "text": "akçe"
+          }
+      ]
+  },
+  {
+      "question": "Osman Bey kaç yaşında evlenmiştir?",
+      "id": 45,
+      "answers": [
+          {
+              "answer_start": 121,
+              "text": "23"
+          }
+      ]
+  },
+  {
+      "question": "Osman Bey 23 yaşında kim ile evlenmiştir?",
+      "id": 46,
+      "answers": [
+          {
+              "answer_start": 182,
+              "text": "Malhun Hatun"
+          }
+      ]
+  },
+  {
+      "question": "Osman Bey Malhun Hatun ile kaç yaşında evlenmiştir?",
+      "id": 47,
+      "answers": [
+          {
+              "answer_start": 127,
+              "text": "23"
+          }
+      ]
+  },
+  {
+      "question": "Osman Gazi Ertuğrul Gazi'den yaklaşık kaç kilometrekare olarak Osmanlı toprağı devralmıştır?",
+      "id": 48,
+      "answers": [
+          {
+              "answer_start": 1267,
+              "text": "4.800"
+          }
+      ]
+  },
+  {
+      "question": "Osman Gazi Orhan Gazi'ye kaç kilometrekare Osmanlı Toprağı devretmiştir?",
+      "id": 49,
+      "answers": [
+          {
+              "answer_start": 1342,
+              "text": "16.000"
+          }
+      ]
+  },
+  {
+      "question": "Akçe adı ile bastırılan Osmanlı parası kaç yılında bastırılmıştır?",
+      "id": 50,
+      "answers": [
+          {
+              "answer_start": 815,
+              "text": "1324"
+          }
+      ]
+  },
+  {
+      "question": "1324 yılında ne bastırılmıştır?",
+      "id": 51,
+      "answers": [
+          {
+              "answer_start": 802,
+              "text": "akçe"
+          }
+      ]
+  },
+  {
+      "question": "1324 yılında akçe adlı ile bastırılan ilk Osmanlı parası kim tarafından bastırılmıştır?",
+      "id": 52,
+      "answers": [
+          {
+              "answer_start": 768,
+              "text": "Osman Bey"
+          }
+      ]
+  },
+  {
+      "question": "Osman Bey'in vefatından sonra yerine kim geçti?",
+      "id": 53,
+      "answers": [
+          {
+              "answer_start": 1418,
+              "text": "Orhan Bey"
+          }
+      ]
+  },
+  {
+      "question": "Orhan Bey kimin vefatından sonra Osman Bey'in yerine geçti?",
+      "id": 54,
+      "answers": [
+          {
+              "answer_start": 1383,
+              "text": "Osman Bey'in"
+          }
+      ]
+  }
+  ],
+
+  "context": "Osman Bey 1258 yılında Söğüt’te doğdu. Osman Bey 1 Ağustos 1326’da Bursa’da hayatını kaybetmiştir.1281 yılında Osman Bey 23 yaşında iken Ahi teşkilatından olan Şeyh Edebali’nin kızı Malhun Hatun ile evlendi.Bu evlilikten daha sonra Osmanlı Devleti’nin başına geçecek olan Orhan Gazi doğdu.1281 yılında Osman Beyin babası Ertuğrul Bey 90 yaşında  vefat etmiştir.1326’da Osman Bey, Bursa’yı kuşattı. Fakat Osman beyin rahatsızlanması üzerine kuşatmaya Orhan Bey devam etti. Bursa alındıktan sonra başkent yapılmıştır.Osman Gazi son yıllarında yaşının ilerlemesi ve gut hastalığı yüzünden beylik idaresini oğlu olan Orhan Bey'e bırakmıştı.Osmanlı Beyliğinin ilk fethettiği ada İmralı Adasıdır. İmralı Adası 1308 yılında Osman Bey tarafından alınmıştır.İlk Osmanlı parası Osman Bey tarafından bakır olarak akçe adı ile 1324 yılında bastırılmıştır.Osmanlı Beyliğinin ilk başkenti Söğüttür.Osmanlı tarihinde ilk savaş, 1284 yılında Bizans tekfurlarıyla yapılan Ermeni Beli savaşıdır.Osman Beyin ele geçirdiği ilk kale 1285 yılında fethedilen Kolca Hisar Kalesi’dir.Osmanlı beyliğinin ilk kadısı Osman Bey döneminde atanan Dursun Fakih’tir.Osman Bey 1288 yılında Karacahisarı fethetti. Osman Bey 1299 yılında Bilecik'i fethetti.Osman Gazi, babası Ertuğrul Gazi'den yaklaşık 4.800 kilometrekare olarak devraldığı Osmanlı toprağını oğlu Orhan Gazi'ye 16.000 kilometrekare olarak devretmiştir.Osman Bey'in vefatı sonrası yerine Orhan Bey geçti."
+  }
+  ]},
+
+  {"title": "Orhan Bey", "paragraphs":[{"qas":
+    [{
+        "question": "Orhan Bey ne zaman doğmuştur?",
+        "id": 1,
+        "answers": [
+            {
+                "answer_start": 10,
+                "text": "1281"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey ne zaman ölmüştür?",
+        "id": 2,
+        "answers": [
+            {
+                "answer_start": 52,
+                "text": "1362"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey 1281 yılında nerede doğmuştur?",
+        "id": 3,
+        "answers": [
+            {
+                "answer_start": 23,
+                "text": "Söğütte"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey 1362 yılında nerede ölmüştür?",
+        "id": 4,
+        "answers": [
+            {
+                "answer_start": 65,
+                "text": "Bursada"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey kaç yılında Bursada ölmüştür?",
+        "id": 5,
+        "answers": [
+            {
+                "answer_start": 52,
+                "text": "1362"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey kaç yılında Söğütte doğmuştur?",
+        "id": 6,
+        "answers": [
+            {
+                "answer_start": 10,
+                "text": "1281"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey Osmanlı İmparatorluğunun kaçıncı padişahıdır?",
+        "id": 7,
+        "answers": [
+            {
+                "answer_start": 108,
+                "text": "ikinci"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı İmparatorluğunun ikinci padişahı kimdir?",
+        "id": 8,
+        "answers": [
+            {
+                "answer_start": 129,
+                "text": "Orhan Bey"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı İmparatorluğunun ikinci padişahı kaç yılları arasında beylik yapmıştır?",
+        "id": 9,
+        "answers": [
+            {
+                "answer_start": 140,
+                "text": "1326 ile 1359"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey kaç yılları arasında beylik yapmıştır?",
+        "id": 10,
+        "answers": [
+            {
+                "answer_start": 140,
+                "text": "1326 ile 1359"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Beyin babası kimdir?",
+        "id": 11,
+        "answers": [
+            {
+                "answer_start": 205,
+                "text": "Osman Gazi"
+            }
+        ]
+    },
+    {
+        "question": "Osman Gazi kimin babasıdır?",
+        "id": 12,
+        "answers": [
+            {
+                "answer_start": 188,
+                "text": "Orhan Bey"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Beyin oğlu kimdir?",
+        "id": 13,
+        "answers": [
+            {
+                "answer_start": 268,
+                "text": "I. Murad"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey babası Osman Gazi'den aldığı devleti kaç kilometrekare almıştır?",
+        "id": 14,
+        "answers": [
+            {
+                "answer_start": 220,
+                "text": "16000"
+            }
+        ]
+    },
+    {
+        "question": "Orhan Bey oğlu I Murad'a kaç kilometrekare olarak devlet bırakmıştır?",
+        "id": 15,
+        "answers": [
+            {
+                "answer_start": 279,
+                "text": "95.000"
+            }
+        ]
+    },
+    {
+        "question": "Bursa kuşatması kim döneminde başlamıştır?",
+        "id": 16,
+        "answers": [
+            {
+                "answer_start": 319,
+                "text": "Osman Gazi"
+            }
+        ]
+    },
+    {
+        "question": "Osman Gazi döneminde hangi kuşatma başlamıştır?",
+        "id": 17,
+        "answers": [
+            {
+                "answer_start": 349,
+                "text": "Bursa Kuşatması,"
+            }
+        ]
+    },
+    {
+        "question": "Bursa kuşatması kaç yılında son bulmuştur?",
+        "id": 18,
+        "answers": [
+            {
+                "answer_start": 366,
+                "text": "1326"
+            }
+        ]
+    },
+    {
+        "question": "1326 yılında hangi kuşatma son bulmuştur?",
+        "id": 19,
+        "answers": [
+            {
+                "answer_start": 349,
+                "text": "Bursa Kuşatması,"
+            }
+        ]
+    },
+    {
+        "question": "Bursa kuşatması ne sebebiyle son buldu?",
+        "id": 603,
+        "answers": [
+            {
+                "answer_start": 379,
+                "text": "tekfurun şehri teslimi"
+            }
+        ]
+    },
+    {
+        "question": "Beyliğin merkezi Yenişehir'den nereye taşınmıştır?",
+        "id": 20,
+        "answers": [
+            {
+                "answer_start": 463,
+                "text": "Bursa’ya"
+            }
+        ]
+    },
+    {
+        "question": "Beyliğin merkezi nereden Bursa'ya taşındı?",
+        "id": 21,
+        "answers": [
+            {
+                "answer_start": 449,
+                "text": "Yenişehir’den"
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşının diğer adı nedir?",
+        "id": 22,
+        "answers": [
+            {
+                "answer_start": 509,
+                "text": "Palekanon"
+            }
+        ]
+    },
+    {
+        "question": "Palekanon savaşı kaç yılında gerçekleşmiştir?",
+        "id": 23,
+        "answers": [
+            {
+                "answer_start": 526,
+                "text": "1329"
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşı kaç yılında gerçekleşmiştir?",
+        "id": 24,
+        "answers": [
+            {
+                "answer_start": 526,
+                "text": "1329"
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşı hangi sebep ile gerçekleşmiştir?",
+        "id": 25,
+        "answers": [
+            {
+                "answer_start": 556,
+                "text": "Osmanlıların İznik'i kuşatması"
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşı kim ile kim arasında gerçekleşmiştir?",
+        "id": 26,
+        "answers": [
+            {
+                "answer_start": 629,
+                "text": "Osmanlı beyliği ile Bizans"
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşı Osmanlı Beyliği ile kim arasında gerçekleşmiştir?",
+        "id": 27,
+        "answers": [
+            {
+                "answer_start": 649,
+                "text": "Bizans"
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşı kim ile Bizans arasında gerçekleşmiştir?",
+        "id": 28,
+        "answers": [
+            {
+                "answer_start": 629,
+                "text": "Osmanlı beyliği"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı beyliği ile Bizans arasında gerçekleşen savaşı kim kazanmıştır?",
+        "id": 29,
+        "answers": [
+            {
+                "answer_start": 678,
+                "text": "Osmanlı Beyliği"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlı beyliği hangi savaşı kazanmıştır",
+        "id": 30,
+        "answers": [
+            {
+                "answer_start": 694,
+                "text": "Maltepe savaşını"
+            }
+        ]
+    },
+    {
+        "question": "Yenilen bizans imparatoru ne yapmıştır?",
+        "id": 31,
+        "answers": [
+            {
+                "answer_start": 749,
+                "text": "İstanbula kaçmıştır."
+            }
+        ]
+    },
+    {
+        "question": "Kim İstanbula kaçmıştır?",
+        "id": 32,
+        "answers": [
+            {
+                "answer_start": 723,
+                "text": "Yenilen bizans imparatoru"
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşından sonra neresi fethedilmiştir?",
+        "id": 33,
+        "answers": [
+            {
+                "answer_start": 770,
+                "text": "İznik"
+            }
+        ]
+    },
+    {
+        "question": "Maltepe savaşından sonra İznik kaç yılında fethedilmiştir?",
+        "id": 34,
+        "answers": [
+            {
+                "answer_start": 801,
+                "text": "1331"
+            }
+        ]
+    },
+    {
+        "question": "İznik Maltepe savaşından sonra kaç yılında fethedilmiştir?",
+        "id": 35,
+        "answers": [
+            {
+                "answer_start": 801,
+                "text": "1331"
+            }
+        ]
+    },
+    {
+        "question": "İznik kaç yılında fethedilmiştir?",
+        "id": 36,
+        "answers": [
+            {
+                "answer_start": 801,
+                "text": "1331"
+            }
+        ]
+    },
+    {
+        "question": "Gemlik kaç yılında fethedilmiştir?",
+        "id": 37,
+        "answers": [
+            {
+                "answer_start": 837,
+                "text": "1333"
+            }
+        ]
+    },
+    {
+        "question": "1333 yılında neresi fethedilmiştir?",
+        "id": 38,
+        "answers": [
+            {
+                "answer_start": 839,
+                "text": "Gemlik"
+            }
+        ]
+    },
+    {
+        "question": "İzmit fethi kaç yılında gerçekleştirilmiştir?",
+        "id": 39,
+        "answers": [
+            {
+                "answer_start": 877,
+                "text": "1337"
+            }
+        ]
+    },
+    {
+        "question": "1337 yılında neresinin fethi gerçekleştirilmiştir?",
+        "id": 40,
+        "answers": [
+            {
+                "answer_start": 865,
+                "text": "İzmit fethi"
+            }
+        ]
+    },
+    {
+        "question": "İzmit fethi ile hangi yarımadanın tamamı Osmanlıların eline geçti?",
+        "id": 41,
+        "answers": [
+            {
+                "answer_start": 931,
+                "text": "Kocaeli yarımadasının"
+            }
+        ]
+    },
+    {
+        "question": "Kocaeli yarımadasının tamamı Osmanlıların eline nerenin fethi ile ele geçti?",
+        "id": 42,
+        "answers": [
+            {
+                "answer_start": 912,
+                "text": "İzmit’in"
+            }
+        ]
+    },
+    {
+        "question": "Kocaeli yarımadasının ne kadarı Osmanlıları eline geçti?",
+        "id": 43,
+        "answers": [
+            {
+                "answer_start": 953,
+                "text": "tamamı"
+            }
+        ]
+    },
+    {
+        "question": "Nerenin tamamı osmanlıların eline geçti?",
+        "id": 44,
+        "answers": [
+            {
+                "answer_start": 931,
+                "text": "Kocaeli yarımadasının"
+            }
+        ]
+    },
+    {
+        "question": "Osmanlıların eline ne geçti?",
+        "id": 45,
+        "answers": [
+            {
+                "answer_start": 931,
+                "text": "Kocaeli yarımadasının tamamı"
+            }
+        ]
+    },
+    {
+        "question": "Kocaeli yarımadasının tamamı kimin eline geçti?",
+        "id": 46,
+        "answers": [
+            {
+                "answer_start": 960,
+                "text": "Osmanlıların"
+            }
+        ]
+    },
+    {
+        "question": "İzmit'in fethiyle kimin Anadolu'daki varlığı sona ermiştir?",
+        "id": 47,
+        "answers": [
+            {
+                "answer_start": 1004,
+                "text": "Bizans’ın"
+            }
+        ]
+    },
+    {
+        "question": "Nerenin fethiyle Bizans'ın Anadolu'daki varlığı sona ermiştir?",
+        "id": 48,
+        "answers": [
+            {
+                "answer_start": 986,
+                "text": "İzmit'in"
+            }
+        ]
+    },
+    {
+        "question": "Kimin Anadolu'daki varlığı sona ermiştir?",
+        "id": 49,
+        "answers": [
+            {
+                "answer_start": 1004,
+                "text": "Bizans’ın"
+            }
+        ]
+    },
+    {
+        "question": "Palekanon savaşının diğer adı nedir?",
+        "id": 50,
+        "answers": [
+            {
+                "answer_start": 480,
+                "text": "Maltepe"
+            }
+        ]
+    },
+    {
+        "question": "Karesioğulları beyliği kaç yılında alınmıştır?",
+        "id": 51,
+        "answers": [
+            {
+                "answer_start": 1072,
+                "text": "1345"
+            }
+        ]
+    },
+    {
+        "question": "1345 yılında hangi beylik alınmıştır?",
+        "id": 52,
+        "answers": [
+            {
+                "answer_start": 1085,
+                "text": "Karesioğulları beyliği"
+            }
+        ]
+    },
+    {
+        "question": "1345 yılında ne alınmıştır*",
+        "id": 53,
+        "answers": [
+            {
+                "answer_start": 1085,
+                "text": "Karesioğulları beyliği"
+            }
+        ]
+    },
+    {
+        "question": "Karesioğulları beyliği hangi yılda alınmıştır?",
+        "id": 54,
+        "answers": [
+            {
+                "answer_start": 1072,
+                "text": "1345"
+            }
+        ]
+    },
+    {
+        "question": "Karesi Bey'in ölümüyle ne olmuştur?",
+        "id": 55,
+        "answers": [
+            {
+                "answer_start": 1121,
+                "text": "Karesi Bey'in oğulları arasında taht kavgası olmuştur."
+            }
+        ]
+    },
+    {
+        "question": "Kimler arasında taht kavgası olmuştur?",
+        "id": 56,
+        "answers": [
+            {
+                "answer_start": 1121,
+                "text": "Karesi Bey'in oğulları arasında"
+            }
+        ]
+    },
+    {
+        "question": "Karesi Bey'in oğulları arasında ne olmuştur",
+        "id": 57,
+        "answers": [
+            {
+                "answer_start": 1153,
+                "text": "taht kavgası"
+            }
+        ]
+    }
+
+
+
+    ],
+
+    "context": "Orhan Bey 1281 yılında Söğütte doğmuştur. Orhan Bey 1362 yılında Bursada ölmüştür.Osmanlı İmparatorluğu'nun ikinci padişahı olan Orhan Bey, 1326 ile 1359 yılları arasında beylik yapmıştır.Orhan Bey babası Osman Gazi'den 16000 kilometrekare olarak aldığı devleti, oğlu I. Murad'a 95.000 kilometrekare olarak bırakmıştır.Osman Gazi döneminde başlayan Bursa kuşatması, 1326 yılında tekfurun şehri teslimi sebebi ile son buldu.Böylece, beyliğin merkezi Yenişehir’den Bursa’ya taşındı.Maltepe savaşı diğer adı ile Palekanon savaşı 1329 yılında gerçekleşmiştir. Osmanlıların İznik'i kuşatması sebebiyle gerçekleşmiştir. Maltepe Savaşı Osmanlı beyliği ile Bizans arasında olan savaşta Osmanlı Beyliği Maltepe savaşını kazanmıştır.Yenilen bizans imparatoru İstanbula kaçmıştır. İznik Maltepe savaşından sonra 1331 yılında fethedilmiştir. Gemlik 1333 yılında fethedilmiştir.İzmit fethi 1337 yılında gerçekleştirilmiştir. İzmit’in fethi ile Kocaeli yarımadasının tamamı Osmanlıların eline geçti. İzmit'in fethiyle Bizans’ın Anadolu’dakivarlığı sona ermiştir. Karesioğulları beyliği 1345 yılında alınmıştır. Karesi Bey'in ölümüyle, Karesi Bey'in oğulları arasında taht kavgası olmuştur."
+
+  }
+    ]},
+    {"title": "I.Murat", "paragraphs":[{"qas":
+      [{
+          "question": "I.Murat ne zaman doğmuştur?",
+          "id": 1,
+          "answers": [
+              {
+                  "answer_start": 8,
+                  "text": "1326"
+              }
+          ]
+      },
+      {
+          "question": "I.Murat ne zaman ölmüştür?",
+          "id": 2,
+          "answers": [
+              {
+                  "answer_start": 48,
+                  "text": "1389"
+              }
+          ]
+      },
+      {
+          "question": "I.Murat 1326 yılında nerede doğmuştur?",
+          "id": 3,
+          "answers": [
+              {
+                  "answer_start": 21,
+                  "text": "Bursada"
+              }
+          ]
+      },
+      {
+          "question": "I.Murat 1389 yılında nerede ölmüştür?",
+          "id": 4,
+          "answers": [
+              {
+                  "answer_start": 61,
+                  "text": "Kosavada"
+              }
+          ]
+      },
+      {
+          "question": "I.Murat kaç yılında Kosovada ölmüştür?",
+          "id": 5,
+          "answers": [
+              {
+                  "answer_start": 48,
+                  "text": "1389"
+              }
+          ]
+      },
+      {
+          "question": "I.Murat kaç yılında Bursada doğmuştur?",
+          "id": 6,
+          "answers": [
+              {
+                  "answer_start": 8,
+                  "text": "1326"
+              }
+          ]
+      },
+      {
+          "question": "I.Murat Osmanlı İmparatorluğunun kaçıncı padişahıdır?",
+          "id": 7,
+          "answers": [
+              {
+                  "answer_start": 105,
+                  "text": "üçüncü"
+              }
+          ]
+      },
+      {
+          "question": "Osmanlı İmparatorluğunun üçüncü padişahı kimdir?",
+          "id": 8,
+          "answers": [
+              {
+                  "answer_start": 126,
+                  "text": "I.Murat,"
+              }
+          ]
+      },
+      {
+          "question": "Osmanlı İmparatorluğunun üçüncü padişahı kaç yılları arasında beylik yapmıştır?",
+          "id": 9,
+          "answers": [
+              {
+                  "answer_start": 135,
+                  "text": "1359 ile 1389"
+              }
+          ]
+      },
+      {
+          "question": "I.Murat kaç yılları arasında beylik yapmıştır?",
+          "id": 10,
+          "answers": [
+              {
+                  "answer_start": 135,
+                  "text": "1359 ile 1389"
+              }
+          ]
+      },
+      {
+          "question": "I.Murat'ın babası kimdir?",
+          "id": 11,
+          "answers": [
+              {
+                  "answer_start": 201,
+                  "text": "Orhan Gazi,"
+              }
+          ]
+      },
+      {
+          "question": "Orhan Gazi kimin babasıdır?",
+          "id": 12,
+          "answers": [
+              {
+                  "answer_start": 194,
+                  "text": "I.Murat'ın"
+              }
+          ]
+      },
+      {
+          "question": "I.Murat'ın annesi kimdir?",
+          "id": 13,
+          "answers": [
+              {
+                  "answer_start": 220,
+                  "text": "Nilüfer Hatun'dur."
+              }
+          ]
+      },
+      {
+          "question": "Nilüfer hatun kimin annesidir?",
+          "id": 14,
+          "answers": [
+              {
+                  "answer_start": 183,
+                  "text": "I.Murat'ın"
+              }
+          ]
+      },
+      {
+          "question": "I.Murat babası Orhan Gazi'den aldığı devleti kaç kilometrekare almıştır?",
+          "id": 15,
+          "answers": [
+              {
+                  "answer_start": 274,
+                  "text": "95.000"
+              }
+          ]
+      },
+      {
+          "question": "I.Murat döneminde topraklarını kaç kilometrekareye genişletmiştir?",
+          "id": 16,
+          "answers": [
+              {
+                  "answer_start": 369,
+                  "text": "500.000"
+              }
+          ]
+      },
+      {
+          "question": "1362 yılında neresi alınmıştır?",
+          "id": 17,
+          "answers": [
+              {
+                  "answer_start": 420,
+                  "text": "Ankara"
+              }
+          ]
+      },
+      {
+          "question": "Ankara kaç yılında alınmıştır?",
+          "id": 18,
+          "answers": [
+              {
+                  "answer_start": 407,
+                  "text": "1362"
+              }
+          ]
+      },
+      {
+          "question": "1362 yılında ne olmuştur?",
+          "id": 19,
+          "answers": [
+              {
+                  "answer_start": 420,
+                  "text": "Ankara Eratna beyliğinden yeniden alınmıştır."
+              }
+          ]
+      },
+      {
+          "question": "1362 yılında Ankara hangi beylikten alınmıştır?",
+          "id": 20,
+          "answers": [
+              {
+                  "answer_start": 427,
+                  "text": "Eratna beyliğinden"
+              }
+          ]
+      },
+      {
+          "question": "Ankara hangi beylikten alınmıştır?",
+          "id": 21,
+          "answers": [
+              {
+                  "answer_start": 427,
+                  "text": "Eratna beyliğinden"
+              }
+          ]
+      },
+      {
+          "question": "Eratna beyliğinden neresi alınmıştır?",
+          "id": 22,
+          "answers": [
+              {
+                  "answer_start": 420,
+                  "text": "Ankara"
+              }
+          ]
+      },
+      {
+          "question": "Sazlıdere savaşı kaç yılında gerçekleşmiştir?",
+          "id": 23,
+          "answers": [
+              {
+                  "answer_start": 465,
+                  "text": "1362"
+              }
+          ]
+      },
+      {
+          "question": "1362 yılında hangi savaş gerçekleşmiştir?",
+          "id": 24,
+          "answers": [
+              {
+                  "answer_start": 478,
+                  "text": "Sazlıdere savaşı"
+              }
+          ]
+      },
+      {
+          "question": "Sazlıdere savaşı sonucunda hangi topraklar alınmıştır?",
+          "id": 25,
+          "answers": [
+              {
+                  "answer_start": 543,
+                  "text": "Edirne ve Filibe"
+              }
+          ]
+      },
+      {
+          "question": "Edirne ve Filibe hangi savaş sonucu alınmıştır?",
+          "id": 26,
+          "answers": [
+              {
+                  "answer_start": 516,
+                  "text": "Sazlıdere savaşı"
+              }
+          ]
+      },
+      {
+          "question": "Sazlıdere savaşı kim ile kim arasında yapılmıştır?",
+          "id": 27,
+          "answers": [
+              {
+                  "answer_start": 589,
+                  "text": "Osmanlı devleti ile Bizans ve Bulgar güçleri arasında"
+              }
+          ]
+      },
+      {
+          "question": "Sazlıdere savaşı Osmanlı devleti ile kim arasında yapılmıştır?",
+          "id": 28,
+          "answers": [
+              {
+                  "answer_start": 609,
+                  "text": "Bizans ve Bulgar güçleri"
+              }
+          ]
+      },
+      {
+          "question": "Sazlıdere savaşı kim ile Bizans ve Bulgar arasında yapılmıştır?",
+          "id": 29,
+          "answers": [
+              {
+                  "answer_start": 589,
+                  "text": "Osmanlı devleti"
+              }
+          ]
+      },
+      {
+          "question": "Hangi savaş Osmanlı devleti ile Bizans ve Bulgar güçleri arasında yapılmıştır?",
+          "id": 30,
+          "answers": [
+              {
+                  "answer_start": 572,
+                  "text": "Sazlıdere savaşı"
+              }
+          ]
+      },
+      {
+          "question": "Hamitoğullarından neresi satın alındı?",
+          "id": 31,
+          "answers": [
+              {
+                  "answer_start": 677,
+                  "text": "Eğridir ve çevresi"
+              }
+          ]
+      },
+      {
+          "question": "Neresi satın alındı?",
+          "id": 32,
+          "answers": [
+              {
+                  "answer_start": 708,
+                  "text": "Eğridir ve çevresi"
+              }
+          ]
+      },
+      {
+          "question": "Eğridir ve çevresi kimlerden satın alındı?",
+          "id": 33,
+          "answers": [
+              {
+                  "answer_start": 659,
+                  "text": "Hamitoğullarından"
+              }
+          ]
+      },
+      {
+          "question": "Eğirdir ve çevresi Hamitoğulları tarafından ne yapıldı?",
+          "id": 34,
+          "answers": [
+              {
+                  "answer_start": 727,
+                  "text": "satın alındı."
+              }
+          ]
+      },
+      {
+          "question": "1364 yılında hangi savaş gerçekleşti?",
+          "id": 35,
+          "answers": [
+              {
+                  "answer_start": 722,
+                  "text": "Sırpsındığı savaşı"
+              }
+          ]
+      },
+      {
+          "question": "Sırpsındığı savaşı ne zaman gerçekleşti?",
+          "id": 36,
+          "answers": [
+              {
+                  "answer_start": 709,
+                  "text": "1364"
+              }
+          ]
+      },
+      {
+          "question": "1364 yılında ne gerçekleşti?",
+          "id": 37,
+          "answers": [
+              {
+                  "answer_start": 722,
+                  "text": "Sırpsındığı savaşı"
+              }
+          ]
+      },
+      {
+          "question": "Balkan devletlerinden oluşan haçlı ordusunun başında kim vardı?",
+          "id": 38,
+          "answers": [
+              {
+                  "answer_start": 818,
+                  "text": "I.Layoş"
+              }
+          ]
+      },
+      {
+          "question": "I.Layoş kimdir?",
+          "id": 39,
+          "answers": [
+              {
+                  "answer_start": 807,
+                  "text": "Sırp Kralı"
+              }
+          ]
+      },
+      {
+          "question": "I.Layoş hangi ordunun başındadır?",
+          "id": 40,
+          "answers": [
+              {
+                  "answer_start": 783,
+                  "text": "haçlı ordusunun"
+              }
+          ]
+      },
+      {
+          "question": "Haçlı ordusu hangi devletlerden oluşuyordu?",
+          "id": 41,
+          "answers": [
+              {
+                  "answer_start": 754,
+                  "text": "Balkan"
+              }
+          ]
+      },
+      {
+          "question": "Haçlı ordusu kim tarafından yapılan ani bir baskın ile yok edilmiştir?",
+          "id": 42,
+          "answers": [
+              {
+                  "answer_start": 846,
+                  "text": "Hacı İlbeyi"
+              }
+          ]
+      },
+      {
+          "question": "Hacı İlbeyi hangi orduya ani bir baskın yaparak yok etmiştir?",
+          "id": 43,
+          "answers": [
+              {
+                  "answer_start": 832,
+                  "text": "Haçlı ordusu,"
+              }
+          ]
+      },
+      {
+          "question": "Haçlı Ordusu, Hacı İlbeyi tarafından yapılan nasıl bir baskın ile yok edilmiştir?",
+          "id": 44,
+          "answers": [
+              {
+                  "answer_start": 877,
+                  "text": "ani"
+              }
+          ]
+      },
+      {
+          "question": "Haçlı Ordusu, Hacı İlbeyi tarafından yapılan ani bir baskın ile ne yapılmıştır?",
+          "id": 45,
+          "answers": [
+              {
+                  "answer_start": 896,
+                  "text": "yok edilmiştir."
+              }
+          ]
+      },
+      {
+          "question": "Edirne ne zaman başkent yapılmıştır?",
+          "id": 46,
+          "answers": [
+              {
+                  "answer_start": 911,
+                  "text": "Sırpsındığı savaşından sonra"
+              }
+          ]
+      },
+      {
+          "question": "Sırpsındığı savaşından sonra neresi başkent yapılmıştır?",
+          "id": 47,
+          "answers": [
+              {
+                  "answer_start": 940,
+                  "text": "Edirne"
+              }
+          ]
+      },
+      {
+          "question": "Edirne hangi savaştan sonra başkent yapılmıştır?",
+          "id": 48,
+          "answers": [
+              {
+                  "answer_start": 911,
+                  "text": "Sırpsındığı savaşından"
+              }
+          ]
+      },
+      {
+          "question": "Hangi savaştan sonra Edirne başkent yapılmıştır?",
+          "id": 49,
+          "answers": [
+              {
+                  "answer_start": 911,
+                  "text": "Sırpsındığı savaşından"
+              }
+          ]
+      },
+      {
+          "question": "Osmanlıların Balkanlarda yaptığı ilk savaş hangisidir?",
+          "id": 50,
+          "answers": [
+              {
+                  "answer_start": 967,
+                  "text": "Sırpsındığı savaşı"
+              }
+          ]
+      },
+      {
+          "question": "Osmanlıların Balkanlarda haçlılarla yaptığı ilk savaş hangisidir?",
+          "id": 51,
+          "answers": [
+              {
+                  "answer_start": 967,
+                  "text": "Sırpsındığı savaşı"
+              }
+          ]
+      },
+      {
+          "question": "Sırpsındığı savaşı nedir?",
+          "id": 52,
+          "answers": [
+              {
+                  "answer_start": 986,
+                  "text": "Osmanlıların Balkanlarda haçlılarla yaptığı ilk savaştır."
+              }
+          ]
+      },
+      {
+          "question": "Osmanlılar Sırpsındığı savaşını kime karşı yapmıştır?",
+          "id": 53,
+          "answers": [
+              {
+                  "answer_start": 1011,
+                  "text": "haçlılarla"
+              }
+          ]
+      },
+      {
+          "question": "Sırpsındığı savaşı sonrası Osmanlı Devletine kim bağlanmıştır?",
+          "id": 54,
+          "answers": [
+              {
+                  "answer_start": 1043,
+                  "text": "Bulgar krallığı"
+              }
+          ]
+      },
+      {
+          "question": "Bulgar krallığı hangi savaş sonrası Osmanlı Devletine bağlanmıştır?",
+          "id": 55,
+          "answers": [
+              {
+                  "answer_start": 1059,
+                  "text": "Sırpsındığı savaşı"
+              }
+          ]
+      },
+      {
+          "question": "Hangi krallık Sırpsındığı savaşı sonrası Osmanlı Devletine bağlanmıştır?",
+          "id": 56,
+          "answers": [
+              {
+                  "answer_start": 1043,
+                  "text": "Bulgar krallığı"
+              }
+          ]
+      },
+      {
+          "question": "Hangi krallık Osmanlı Devletine bağlanmıştır?",
+          "id": 57,
+          "answers": [
+              {
+                  "answer_start": 1043,
+                  "text": "Bulgar krallığı"
+              }
+          ]
+      },
+      {
+
+          "question": "Çirmen savaşı ne zaman gerçekleşti?",
+          "id": 59,
+          "answers": [
+              {
+                  "answer_start": 1117,
+                  "text": "1371"
+              }
+          ]
+      },
+      {
+          "question": "1371 yılında ne oldu?",
+          "id": 60,
+          "answers": [
+              {
+                  "answer_start": 1130,
+                  "text": "Çirmen savaşı gerçekleşti."
+              }
+          ]
+      },
+      {
+          "question": "1371 yılında hangi savaş oldu?",
+          "id": 61,
+          "answers": [
+              {
+                  "answer_start": 1130,
+                  "text": "Çirmen savaşı"
+              }
+          ]
+      },
+      {
+          "question": "Çirmen savaşı kim ile kim arasında olmuştur?",
+          "id": 62,
+          "answers": [
+              {
+                  "answer_start": 1171,
+                  "text": "Evranos Bey ile Sırplar"
+              }
+          ]
+      },
+      {
+          "question": "Çirmen savaşı Evranos bey ile kim arasında olmuştur?",
+          "id": 63,
+          "answers": [
+              {
+                  "answer_start": 1187,
+                  "text": "Sırplar"
+              }
+          ]
+      },
+      {
+          "question": "Çirmen savaşı kim ile Sırplar arasında olmuştur?",
+          "id": 64,
+          "answers": [
+              {
+                  "answer_start": 1171,
+                  "text": "Evranos Bey"
+              }
+          ]
+      },
+      {
+          "question": "Çirmen savaşını kim kazanmıştır?",
+          "id": 65,
+          "answers": [
+              {
+                  "answer_start": 1230,
+                  "text": "Osmanlı Devleti"
+              }
+          ]
+      },
+      {
+          "question": "Çirmen savaşı sonucunda neresi alındı?",
+          "id": 66,
+          "answers": [
+              {
+                  "answer_start": 1282,
+                  "text": "Makedonya'nın bir kısmı"
+              }
+          ]
+      },
+      {
+          "question": "Makedonya'nın bir kısmı hangi savaşın sonucunda alındı?",
+          "id": 67,
+          "answers": [
+              {
+                  "answer_start": 1258,
+                  "text": "Çirmen savaşı"
+              }
+          ]
+      },
+      {
+          "question": "Çirmen savaşı sonucunda nerenin bir kısmı alındı?",
+          "id": 68,
+          "answers": [
+              {
+                  "answer_start": 1282,
+                  "text": "Makedonya'nın"
+              }
+          ]
+      },
+      {
+          "question": "1388 yılında hangi savaş yapılmıştır?",
+          "id": 69,
+          "answers": [
+              {
+                  "answer_start": 1326,
+                  "text": "Ploşnik savaşı"
+              }
+          ]
+      },
+      {
+          "question": "Ploşnik savaşı kaç yılında yapılmıştır?",
+          "id": 70,
+          "answers": [
+              {
+                  "answer_start": 1313,
+                  "text": "1388"
+              }
+          ]
+      },
+      {
+          "question": "Ploşnik savaşı kim ile kim arasında yapılmıştır?",
+          "id": 71,
+          "answers": [
+              {
+                  "answer_start": 1341,
+                  "text": "Haçlı ordusu ile Osmanlı Devleti"
+              }
+          ]
+      },
+      {
+          "question": "Ploşnik savaşı Haçlı ordusu ile kim arasında yapılmıştır?",
+          "id": 72,
+          "answers": [
+              {
+                  "answer_start": 1358,
+                  "text": "Osmanlı Devleti"
+              }
+          ]
+      },
+      {
+          "question": "Ploşnik savaşı kim ile Osmanlı Devleti arasında yapılmıştır?",
+          "id": 73,
+          "answers": [
+              {
+                  "answer_start": 1341,
+                  "text": "Haçlı ordusu"
+              }
+          ]
+      },
+      {
+          "question": "Ploşnik savaşını kim kazanmıştır?",
+          "id": 74,
+          "answers": [
+              {
+                  "answer_start": 1413,
+                  "text": "Haçlı ordusu"
+              }
+          ]
+      },
+      {
+          "question": "Haçlı ordusu hangi savaşı kazanmıştır?",
+          "id": 75,
+          "answers": [
+              {
+                  "answer_start": 1396,
+                  "text": "Ploşnik savaşını"
+              }
+          ]
+      },
+      {
+          "question": "Hıristiyanların Türklere karşı kazandığı ilk büyük zafer hangisidir?",
+          "id": 76,
+          "answers": [
+              {
+                  "answer_start": 1438,
+                  "text": "Ploşnik savaşı"
+              }
+          ]
+      },
+      {
+          "question": "Ploşnik Bozgunu neyin sebebidir?",
+          "id": 77,
+          "answers": [
+              {
+                  "answer_start": 1530,
+                  "text": "I.Kosova Savaşı’nın"
+              }
+          ]
+      },
+      {
+          "question": "I.Kosova savaşı kaç yılında gerçekleşmiştir?",
+          "id": 78,
+          "answers": [
+              {
+                  "answer_start": 1559,
+                  "text": "1389"
+              }
+          ]
+      },
+      {
+          "question": "1389 yılında hangi savaş gerçekleşmiştir?",
+          "id": 79,
+          "answers": [
+              {
+                  "answer_start": 1574,
+                  "text": "I.Kosova savaşı"
+              }
+          ]
+      },
+      {
+          "question": "Sırp kralı Lazar ne yapmıştır?",
+          "id": 80,
+          "answers": [
+              {
+                  "answer_start": 1622,
+                  "text": "haçlı ordusu kurmuştur."
+              }
+          ]
+      },
+      {
+          "question": "Haçlı ordusunu kuran kimdir?",
+          "id": 81,
+          "answers": [
+              {
+                  "answer_start": 1605,
+                  "text": "Sırp kralı Lazar"
+              }
+          ]
+      },
+      {
+          "question": "Haçlı ordusunu kuran Lazar kimdir?",
+          "id": 82,
+          "answers": [
+              {
+                  "answer_start": 1605,
+                  "text": "Sırp kralı"
+              }
+          ]
+      },
+      {
+          "question": "I.Kosova savaşı kim ile kim arasında gerçekleşmiştir?",
+          "id": 83,
+          "answers": [
+              {
+                  "answer_start": 1661,
+                  "text": "Osmanlı ordusu ile Haçlılar"
+              }
+          ]
+      },
+      {
+          "question": "I.Kosova savaşı Osmanlı Ordusu ile kim arasında gerçekleşmiştir?",
+          "id": 84,
+          "answers": [
+              {
+                  "answer_start": 1680,
+                  "text": "Haçlılar"
+              }
+          ]
+      },
+      {
+          "question": "I.Kosova savaşı kim ile Haçlılar arasında gerçekleşmiştir?",
+          "id": 85,
+          "answers": [
+              {
+                  "answer_start": 1661,
+                  "text": "Osmanlı ordusu"
+              }
+          ]
+      },
+      {
+          "question": "I.Kosova savaşını kim kazamıştır?",
+          "id": 86,
+          "answers": [
+              {
+                  "answer_start": 1733,
+                  "text": "Osmanlı ordusu"
+              }
+          ]
+      },
+      {
+
+          "question": "Osmanlı ordusu hangi savaşı kazanmıştır?",
+          "id": 87,
+          "answers": [
+              {
+                  "answer_start": 1801,
+                  "text": "I.Kosova savaşını"
+              }
+          ]
+      },
+      {
+          "question": "Nereye kadar topraklar Osmanlı devletinin eline geçmiştir?",
+          "id": 88,
+          "answers": [
+              {
+                  "answer_start": 1761,
+                  "text": "Tuna nehrine"
+              }
+          ]
+      },
+      {
+          "question": "Hangi nehre kadar topraklar Osmanlı devletinin eline geçmiştir?",
+          "id": 89,
+          "answers": [
+              {
+                  "answer_start": 1761,
+                  "text": "Tuna"
+              }
+          ]
+      },
+      {
+          "question": "Tuna nehrine kadar topraklar hangi devletin eline geçmiştir?",
+          "id": 90,
+          "answers": [
+              {
+                  "answer_start": 1790,
+                  "text": "Osmanlı"
+              }
+          ]
+      },
+      {
+          "question": "Haçlılar ile yapılan ilk büyük meydan savaşı hangisidir?",
+          "id": 91,
+          "answers": [
+              {
+                  "answer_start": 1825,
+                  "text": "I.Kosova Savaşı"
+              }
+          ]
+      },
+      {
+          "question": "Haçlılar ile yapılan ilk büyük meydan savaşı kaç yılında yapılmıştır?",
+          "id": 92,
+          "answers": [
+              {
+                  "answer_start": 1559,
+                  "text": "1389"
+              }
+          ]
+      },
+      {
+          "question": "I.Kosava savaşı nedir",
+          "id": 93,
+          "answers": [
+              {
+                  "answer_start": 1841,
+                  "text": "haçlılar ile yapılan ilk büyük meydan savaşıdır."
+              }
+          ]
+      },
+      {
+          "question": "I.Kosova savaşı kim ile yapılmıştır",
+          "id": 94,
+          "answers": [
+              {
+                  "answer_start": 1841,
+                  "text": "haçlılar"
+              }
+          ]
+      },
+      {
+
+          "question": "I.Kosava savaşı sonucu ne olmuştur?",
+          "id": 95,
+          "answers": [
+              {
+                  "answer_start": 1912,
+                  "text": "Türklerin islam dünyasındaki önemi arttı."
+              }
+          ]
+      },
+      {
+          "question": "Türklerin islan dünyasındaki önemi hangi savaş sonucu arttı?",
+          "id": 96,
+          "answers": [
+              {
+                  "answer_start": 1889,
+                  "text": "I.Kosova Savaşı"
+              }
+          ]
+      },
+      {
+          "question": "Osmanlı devleti ilk kez hangi savaşta top kullandı?",
+          "id": 97,
+          "answers": [
+              {
+                  "answer_start": 1978,
+                  "text": "I.Kosova savaşında"
+              }
+          ]
+      },
+      {
+          "question": "İlk kez top hangi savaşta kullandıldı?",
+          "id": 98,
+          "answers": [
+              {
+                  "answer_start": 1978,
+                  "text": "I.Kosova savaşında"
+              }
+          ]
+      },
+      {
+          "question": "I.Kosova savaşında kim top kullandı?",
+          "id": 99,
+          "answers": [
+              {
+                  "answer_start": 1954,
+                  "text": "Osmanlı devleti"
+              }
+          ]
+      },
+      {
+          "question": "I.Kosova savaşında sonucu kimlerin islam dünyasındaki önemi arttı?",
+          "id": 100,
+          "answers": [
+              {
+                  "answer_start": 1912,
+                  "text": "Türklerin"
+              }
+          ]
+      }
+
+
+
+
+      ],
+
+      "context": "I.Murat 1326 yılında Bursada doğmuştur. I.Murat 1389 yılında Kosavada ölmüştür.Osmanlı İmparatorluğu'nun üçüncü padişahı olan I.Murat, 1359 ile 1389 yılları arasında beylik yapmıştır.I.Murat'ın babası Orhan Gazi, annesi Nilüfer Hatun'dur.I.Murat babası Orhan Gazi döneminde 95.000 kilometrekare olarak almış, devlet topraklarını I.Murat döneminde topraklarını yaklaşık 500.000 kilometrekareye genişlemiştir.1362 yılında Ankara Eratna beyliğinden yeniden alınmıştır.1362 yılında Sazlıdere savaşı ile gerçekleşmiştir. Sazlıdere savaşı sonucunda Edirne ve Filibe alınmıştır. Sazlıdere savaşı Osmanlı devleti ile Bizans ve Bulgar güçleri arasında gerçekleşmiştir.Hamitoğullarından Eğridir ve çevresi satın alındı.1364 yılında Sırpsındığı savaşı gerçekleşti. Balkan devletlerinden oluşan haçlı ordusunun başında Sırp Kralı I.Layoş vardı.Haçlı ordusu, Hacı İlbeyi tarafından yapılan ani bir baskın ile yok edilmiştir.Sırpsındığı savaşından sonra Edirne başkent yapılmıştır.Sırpsındığı savaşı Osmanlıların Balkanlarda haçlılarla yaptığı ilk savaştır.Bulgar krallığı Sırpsındığı savaşı sonrası Osmanlı Devletine bağlanmıştır.1371 yılında Çirmen savaşı gerçekleşti. Çirmen savaşı Evranos Bey ile Sırplar arasında olmuştur. Çirmen Savaşını Osmanlı Devleti kazanmıştır.Çirmen savaşı sonucunda Makedonya'nın bir kısmı alındı.1388 yılında Ploşnik savaşı Haçlı ordusu ile Osmanlı Devleti arasında yapılmıştır. Ploşnik savaşını Haçlı ordusu kazanmıştır.Ploşnik savaşı Hıristiyanların Türklere karşı kazandığı ilk büyük zaferdir. Ploşnik Bozgunu I.Kosova Savaşı’nın sebebidir1389 yılında I.Kosova savaşı gerçekleşmiştir. Sırp kralı Lazar haçlı ordusu kurmuştur.I.Kosova Savaşı Osmanlı ordusu ile Haçlılar arasında gerçekleşmiştir. I.Kosova savaşını Osmanlı ordusu kazanmıştır. Tuna nehrine kadar topraklar Osmanlı devletinin eline geçmiştir.I.Kosova Savaşı haçlılar ile yapılan ilk büyük meydan savaşıdır.I.Kosova Savaşı sonucu Türklerin islam dünyasındaki önemi arttı. Osmanlı devleti ilk kez I.Kosova savaşında top kullandı."
+      }
+      ]},
+      {"title": "Vasvar Antlaşması", "paragraphs":[{"qas":
+          [{
+              "question": "Vasvar Antlaşması ne çeşit bir antlaşmadır?",
+              "id": 1,
+              "answers": [
+                  {
+                      "answer_start": 22,
+                      "text": "barış antlaşması"
+                  }
+              ]
+          },
+          {
+              "question": "Vasvar Antlaşması hangi tarihte imzalanmıştır?",
+              "id": 2,
+              "answers": [
+                  {
+                      "answer_start": 61,
+                      "text": "18 Ağustos 1618"
+                  }
+              ]
+          },
+          {
+              "question": "Hangi antlaşma 18 Ağustos 1618 tarihinde imzalanmıştır?",
+              "id": 3,
+              "answers": [
+                  {
+                      "answer_start": 43,
+                      "text": "Vasvar Antlaşması"
+                  }
+              ]
+          },
+          {
+              "question": "Vasvar Antlaşması kaç yılında imzalanmıştır?",
+              "id": 4,
+              "answers": [
+                  {
+                      "answer_start": 72,
+                      "text": "1618"
+                  }
+              ]
+          },
+          {
+              "question": "Hangi antlaşma 1618 yılında imzalanmıştır?",
+              "id": 5,
+              "answers": [
+                  {
+                      "answer_start": 43,
+                      "text": "Vasvar Antlaşması"
+                  }
+              ]
+          },
+          {
+              "question": "Hangi antlaşma Osmanlı Devleti ile Lehistan arasında imzalanmıştır?",
+              "id": 6,
+              "answers": [
+                  {
+                      "answer_start": 102,
+                      "text": "Vasvar Antlaşması"
+                  }
+              ]
+          },
+          {
+              "question": "Vasvar Antlaşması, hangi devlet ile Lehistan arasında imzalanmıştır?",
+              "id": 7,
+              "answers": [
+                  {
+                      "answer_start": 121,
+                      "text": "Osmanlı Devleti"
+                  }
+              ]
+          },
+          {
+              "question": "Vasvar Antlaşması, Osmanlı Devleti ile hangi devlet arasında imzalanmıştır?",
+              "id": 8,
+              "answers": [
+                  {
+                      "answer_start": 141,
+                      "text": "Lehistan"
+                  }
+              ]
+          },
+          {
+              "question": "Vasvar Antlaşması, hangi iki devlet arasında imzalanmıştır?",
+              "id": 9,
+              "answers": [
+                  {
+                      "answer_start": 121,
+                      "text": "Osmanlı Devleti ile Lehistan"
+                  }
+              ]
+          },
+          {
+              "question": "Hangi antlaşma Vasvar kentinde imzalanmıştır?",
+              "id": 10,
+              "answers": [
+                  {
+                      "answer_start": 173,
+                      "text": "Vasvar Antlaşması"
+                  }
+              ]
+          },
+          {
+              "question": "Vasvar Antlaşması nerede imzalanmıştır?",
+              "id": 11,
+              "answers": [
+                  {
+                      "answer_start": 191,
+                      "text": "Vasvar kentinde"
+                  }
+              ]
+          }
+
+
+
+          ],
+
+          "context": "Vasvar Antlaşması bir barış antlaşmasıdır. Vasvar Antlaşması 18 Ağustos 1618 tarihinde imzalanmıştır. Vasvar Antlaşması, Osmanlı Devleti ile Lehistan arasında imzalanmıştır.Vasvar Antlaşması Vasvar kentinde imzalanmıştır."
+
+          }
+          ]},
+          {"title": "Osmanlı-Venedik Antlaşması", "paragraphs":[{"qas":
+              [{
+                  "question": "Osmanlı-Venedik Antlaşması ne çeşit bir antlaşmadır?",
+                  "id": 1,
+                  "answers": [
+                      {
+                          "answer_start": 31,
+                          "text": "barış ve ticaret antlaşması"
+                      }
+                  ]
+              },
+              {
+                  "question": "Osmanlı-Venedik Antlaşması hangi tarihte imzalanmıştır?",
+                  "id": 2,
+                  "answers": [
+                      {
+                          "answer_start": 89,
+                          "text": "29 Mayıs 1416"
+                      }
+                  ]
+              },
+              {
+                  "question": "Hangi antlaşma 29 Mayıs 1416 tarihinde imzalanmıştır?",
+                  "id": 3,
+                  "answers": [
+                      {
+                          "answer_start": 62,
+                          "text": "Osmanlı-Venedik Antlaşması"
+                      }
+                  ]
+              },
+              {
+                  "question": "Osmanlı-Venedik Antlaşması kaç yılında imzalanmıştır?",
+                  "id": 4,
+                  "answers": [
+                      {
+                          "answer_start": 98,
+                          "text": "1416"
+                      }
+                  ]
+              },
+              {
+                  "question": "Hangi antlaşma 1416 yılında imzalanmıştır?",
+                  "id": 5,
+                  "answers": [
+                      {
+                          "answer_start": 62,
+                          "text": "Osmanlı-Venedik Antlaşması"
+                      }
+                  ]
+              },
+              {
+                  "question": "Hangi antlaşma Osmanlı Devleti ile Venedik Cumhuriyeti arasında imzalanmıştır?",
+                  "id": 6,
+                  "answers": [
+                      {
+                          "answer_start": 127,
+                          "text": "Osmanlı-Venedik Antlaşması"
+                      }
+                  ]
+              },
+              {
+                  "question": "Osmanlı-Venedik Antlaşması, hangi devlet ile Venedik Cumhuriyeti arasında imzalanmıştır?",
+                  "id": 7,
+                  "answers": [
+                      {
+                          "answer_start": 155,
+                          "text": "Osmanlı Devleti"
+                      }
+                  ]
+              },
+              {
+                  "question": "Osmanlı-Venedik Antlaşması, Osmanlı Devleti ile hangi devlet arasında imzalanmıştır?",
+                  "id": 8,
+                  "answers": [
+                      {
+                          "answer_start": 175,
+                          "text": "Venedik Cumhuriyeti"
+                      }
+                  ]
+              },
+              {
+                  "question": "Osmanlı-Venedik Antlaşması, hangi iki devlet arasında imzalanmıştır?",
+                  "id": 9,
+                  "answers": [
+                      {
+                          "answer_start": 155,
+                          "text": "Osmanlı Devleti ile Venedik Cumhuriyeti"
+                      }
+                  ]
+              },
+              {
+                  "question": "Hangi antlaşma Venedik kentinde imzalanmıştır?",
+                  "id": 10,
+                  "answers": [
+                      {
+                          "answer_start": 217,
+                          "text": "Osmanlı-Venedik Antlaşması"
+                      }
+                  ]
+              },
+              {
+                  "question": "Osmanlı-Venedik Antlaşması nerede imzalanmıştır?",
+                  "id": 11,
+                  "answers": [
+                      {
+                          "answer_start": 245,
+                          "text": "Venedik kentinde"
+                      }
+                  ]
+              }
+
+
+
+              ],
+
+              "context": "Osmanlı-Venedik Antlaşması bir barış ve ticaret antlaşmasıdır.Osmanlı-Venedik Antlaşması 29 Mayıs 1416 tarihinde imzalanmıştır.Osmanlı-Venedik Antlaşması, Osmanlı Devleti ile Venedik Cumhuriyeti arasında imzalanmıştır.Osmanlı-Venedik Antlaşması Venedik kentinde imzalanmıştır."
+
+              }
+              ]}
+
+
+    ]}

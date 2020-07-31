@@ -1,0 +1,2049 @@
+{
+    "data": [
+        {
+            "title": "Mostaganem Savaşı",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mostaganem Savaşı'nın diğer adı nedir?",
+                            "id": 10000,
+                            "answers": [
+                                {
+                                    "answer_start": 23,
+                                    "text": "Mostaganem Muharebesi"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Mostaganem Savaşı hangi tarihte oldu?",
+                            "id": 10001,
+                            "answers": [
+                                {
+                                    "answer_start": 46,
+                                    "text": "1558 yılında"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Mostaganem Savaşı hangi devletler arasında oldu?",
+                            "id": 10002,
+                            "answers": [
+                                {
+                                    "answer_start": 59,
+                                    "text": "Osmanlı Devleti ile İspanyol İmparatorluğu"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Mostaganem Savaşı Osmanlı devleti ile hangi imparatorluk arasında oldu?",
+                            "id": 10003,
+                            "answers": [
+                                {
+                                    "answer_start": 79,
+                                    "text": "İspanyol İmparatorluğu"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Mostaganem Savaşı İspanyol İmparatorluğu ile hangi devlet arasında oldu?",
+                            "id": 10004,
+                            "answers": [
+                                {
+                                    "answer_start": 59,
+                                    "text": "Osmanlı devleti"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı güçlerinin başında kim vardı?",
+                            "id": 10005,
+                            "answers": [
+                                {
+                                    "answer_start": 200,
+                                    "text": "Hasan Paşa"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "İspanyol güçlerinin başında kim vardı?",
+                            "id": 10006,
+                            "answers": [
+                                {
+                                    "answer_start": 244,
+                                    "text": "Kont Alkodete"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "İspanyol güçlerini kim destekledi?",
+                            "id": 10007,
+                            "answers": [
+                                {
+                                    "answer_start": 283,
+                                    "text": "Fas Sultanının askerleri"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Savaş sonucunda İspanyollar ne yaptı?",
+                            "id": 10008,
+                            "answers": [
+                                {
+                                    "answer_start": 356,
+                                    "text": "Mostaganem Kalesinin kuşatmayı bıraktı ve Fas topraklarından çekilme kararı aldı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı İmparatorluğu'nun hükümdarı kimdi?",
+                            "id": 10009,
+                            "answers": [
+                                {
+                                    "answer_start": 528,
+                                    "text": "Kanuni Sultan Süleyman"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Kanuni Sultan Süleyman nerede seferin başında bulunuyordu?",
+                            "id": 10010,
+                            "answers": [
+                                {
+                                    "answer_start": 552,
+                                    "text": "Avrupa'da"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Fas Sultanlığı amacı neydi?",
+                            "id": 10011,
+                            "answers": [
+                                {
+                                    "answer_start": 610,
+                                    "text": "Kuzey Afrika'da güçlenmek isteyen"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Kuzey Afrika'da güçlenmek isteyen kimdi?",
+                            "id": 10012,
+                            "answers": [
+                                {
+                                    "answer_start": 644,
+                                    "text": "Fas Sultanlığı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Kuzey Afrika'da güçlenmek isteyen Fas Sultanlığı ne yaptı?",
+                            "id": 10013,
+                            "answers": [
+                                {
+                                    "answer_start": 699,
+                                    "text": "Tilimsan şehrini fethetmek istedi"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Fas Sultanlığı 30.000 kişilik bir kuvvet nereyi fetetmek istedi?",
+                            "id": 10014,
+                            "answers": [
+                                {
+                                    "answer_start": 699,
+                                    "text": "Tilimsan şehrini"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Fas Sultanlığı kaç bin kişilik kuvvetle Tilimsan şehrini fetetmek istedi?",
+                            "id": 10015,
+                            "answers": [
+                                {
+                                    "answer_start": 669,
+                                    "text": "30.000 kişilik"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Cezayir beylerbeyliğine kim atandı?",
+                            "id": 10016,
+                            "answers": [
+                                {
+                                    "answer_start": 803,
+                                    "text": "Hasan Paşa"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hasan Paşa nereye atandı?",
+                            "id": 10017,
+                            "answers": [
+                                {
+                                    "answer_start": 744,
+                                    "text": "Cezayir beylerbeyliğine"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Fas topraklarına nereden gelen emirle denizden de sefer yapıldı?",
+                            "id": 10018,
+                            "answers": [
+                                {
+                                    "answer_start": 840,
+                                    "text": "İstanbul'dan"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Fas topraklarına İstanbul'dan gelen emirle nereden sefer yapıldı?",
+                            "id": 10019,
+                            "answers": [
+                                {
+                                    "answer_start": 885,
+                                    "text": "denizden"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Fas orduları dağıldı sonucunda ne oldu?",
+                            "id": 10020,
+                            "answers": [
+                                {
+                                    "answer_start": 935,
+                                    "text": "sonuç olarak başkentleri işgal edildi"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Fas Sultanı kimdir?",
+                            "id": 10021,
+                            "answers": [
+                                {
+                                    "answer_start": 1001,
+                                    "text": "II. Muhammed"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Muhammed kimdir?",
+                            "id": 10022,
+                            "answers": [
+                                {
+                                    "answer_start": 989,
+                                    "text": "Fas Sultanı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Fas Sultanı II. Muhammed, başkenti geri alınca ne yaptı?",
+                            "id": 10023,
+                            "answers": [
+                                {
+                                    "answer_start": 1037,
+                                    "text": "İspanyollardan yardım istedi"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "İspanyol topraklarına kim taarruza geçti?",
+                            "id": 10024,
+                            "answers": [
+                                {
+                                    "answer_start": 1091,
+                                    "text": "Salih Paşa kuvvetleri"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Salih Paşa kuvvetleri ne yaptı?",
+                            "id": 10025,
+                            "answers": [
+                                {
+                                    "answer_start": 1114,
+                                    "text": "İspanyol topraklarına da taarruza geçti"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Fas sultanını nasıl öldü?",
+                            "id": 10026,
+                            "answers": [
+                                {
+                                    "answer_start": 1170,
+                                    "text": "suikast ile"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Fas sultanının öldürülmesinin ardından ne oldu?",
+                            "id": 10027,
+                            "answers": [
+                                {
+                                    "answer_start": 1204,
+                                    "text": "kale kuşatmaları yoğunlaştı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Fas orduları ne yaptı?",
+                            "id": 10028,
+                            "answers": [
+                                {
+                                    "answer_start": 1246,
+                                    "text": "Osmanlı'nın ele geçirmiş olduğu kaleleri kuşatmaya başladı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı'nın ele geçirmiş olduğu kaleleri kim kuşatmaya başladı?",
+                            "id": 10029,
+                            "answers": [
+                                {
+                                    "answer_start": 1232,
+                                    "text": "Fas orduları"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Salih Paşa nereden ayrıldı?",
+                            "id": 10030,
+                            "answers": [
+                                {
+                                    "answer_start": 1357,
+                                    "text": "Fas topraklarından"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "İspanyollar da kuvvet yığmış neye hazırlanıyordu?",
+                            "id": 10031,
+                            "answers": [
+                                {
+                                    "answer_start": 1463,
+                                    "text": "Cezayir'e taarruz etmeye"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Bölgede yaklaşık kaç bin kişilik Osmanlı kuvveti vardı?",
+                            "id": 10032,
+                            "answers": [
+                                {
+                                    "answer_start": 1523,
+                                    "text": "45.000"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hasan Paşa, elindeki kuvvetler nereye taaruz etti?",
+                            "id": 10033,
+                            "answers": [
+                                {
+                                    "answer_start": 1660,
+                                    "text": "Fas topraklarına"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı ordusu yaklaşık kaç kişilik Fas kuvvetlerini mağlup etti?",
+                            "id": 10034,
+                            "answers": [
+                                {
+                                    "answer_start": 1523,
+                                    "text": "45.000 kişilik"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı ordusu Fas kuvvetlerini maglup etti fakat neyi öğrendi?",
+                            "id": 10035,
+                            "answers": [
+                                {
+                                    "answer_start": 1749,
+                                    "text": "İspanyol güçlerinin cephe arkasına sızdığını"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı ordusu İspanyol güçlerinin arkadan sızdığını öğrenince ne yaptı?",
+                            "id": 10036,
+                            "answers": [
+                                {
+                                    "answer_start": 1824,
+                                    "text": "savaşı bitirdi ve İspanyol güçlerinin peşine düştü"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı ordusu Fas güçlerine karşı savaş neden bitirdi?",
+                            "id": 10037,
+                            "answers": [
+                                {
+                                    "answer_start": 1802,
+                                    "text": "Kıskaça düşmemek için"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "İspanyollara destek getiren nakliye gemilerine ne oldu?",
+                            "id": 10038,
+                            "answers": [
+                                {
+                                    "answer_start": 1922,
+                                    "text": "Osmanlı savaş gemilerince dağıtıldı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "İspanyol güçleri neden Mostaganem Kalesine doğru ilerlediler?",
+                            "id": 10039,
+                            "answers": [
+                                {
+                                    "answer_start": 2024,
+                                    "text": "Tilimsan şehrini alamayacaklarını düşündüler"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "İspanyol güçleri Tilimsan şehrini alamayacaklarını düşününce ne yaptılar?",
+                            "id": 10040,
+                            "answers": [
+                                {
+                                    "answer_start": 2072,
+                                    "text": "Mostaganem Kalesine doğru ilerlediler"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Dönemin İspanyol imparatoru kimdir?",
+                            "id": 10041,
+                            "answers": [
+                                {
+                                    "answer_start": 2439,
+                                    "text": "II. Felipe"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Felipe kimdir?",
+                            "id": 10042,
+                            "answers": [
+                                {
+                                    "answer_start": 2411,
+                                    "text": "Dönemin İspanyol imparatoru"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Fas Sultanlığı neden Osmanlı İmparatorluğu'na teslim olmak zorunda kaldı?",
+                            "id": 10043,
+                            "answers": [
+                                {
+                                    "answer_start": 2502,
+                                    "text": "Güçleri dağılmış olan Fas Sultanlığı da, İspanyol desteği kesilince"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Güçleri dağılmış olan Fas Sultanlığı İspanyol desteği kesilince ne yaptı?",
+                            "id": 10044,
+                            "answers": [
+                                {
+                                    "answer_start": 2570,
+                                    "text": "Osmanlı İmparatorluğu'na teslim olmak zorunda kaldı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Fas, tam olarak Osmanlı toprağı olmadı ama ne yapmak zorunda kaldı?",
+                            "id": 10045,
+                            "answers": [
+                                {
+                                    "answer_start": 2666,
+                                    "text": "Osmanlı'nın bölgedeki hakimiyetini kabul edecek, vergi verecekti"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Fas Osmanlı hakimiyetine girince ne oldu?",
+                            "id": 10046,
+                            "answers": [
+                                {
+                                    "answer_start": 2739,
+                                    "text": "Kuzey Afrika'daki Fas ve İspanyol hakimiyeti son bulmuş oldu"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Kuzey Afrika'daki Fas ve İspanyol hakimiyeti nasıl son bulmuş oldu?",
+                            "id": 10047,
+                            "answers": [
+                                {
+                                    "answer_start": 2666,
+                                    "text": "Osmanlı'nın bölgedeki hakimiyetini kabul edecek"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Mostaganem Savaşı olduktan kısa süre sonra hangi savaş oldu?",
+                            "id": 10048,
+                            "answers": [
+                                {
+                                    "answer_start": 2864,
+                                    "text": "Cerbe Deniz Muharebesi"
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Mostaganem Savaşı veya Mostaganem Muharebesi, 1558 yılında Osmanlı Devleti ile İspanyol İmparatorluğu - Fas Sultanlığı arasında yapılan, Osmanlı zaferiyle sonuçlanan savaş. Osmanlı güçlerinin başında Hasan Paşa, İspanyol güçlerinin başında ise Kont Alkodete vardı.İspanyol güçlerini Fas Sultanının askerleri de desteklemiştir. Savaş sonucunda İspanyollar, Mostaganem Kalesinin kuşatmayı bıraktı ve Fas topraklarından çekilme kararı aldı. Böylece Fas topraklarında Osmanlı hakimiyeti başladı. Osmanlı İmparatorluğu'nun hükümdarı Kanuni Sultan Süleyman, Avrupa'da seferin başında bulunuyordu.Bu süreç içerisinde Kuzey Afrika'da güçlenmek isteyen Fas Sultanlığı, yaklaşık 30.000 kişilik bir kuvvet ile Tilimsan şehrini fethetmek istedi. Bu sırada Cezayir beylerbeyliğine de Hasan Paşa atanmış bulunuyordu. Hasan Paşa, bu hücumu püskürtebildi. İstanbul'dan gelen emir ile Fas topraklarına denizden de sefer yapıldı.Fas orduları dağıldı ve sonuç olarak başkentleri işgal edildi. Bir süre sonra Fas Sultanı II. Muhammed, başkenti geri aldı ve İspanyollardan yardım istedi. Bunun üzerine bölgedeki Salih Paşa kuvvetleri, İspanyol topraklarına da taarruza geçti. Fas sultanının suikast ile öldürülmesinden sonra kale kuşatmaları yoğunlaştı.Fas orduları, Osmanlı'nın ele geçirmiş olduğu kaleleri kuşatmaya başladı. Fakat tam olarak bir sonuç alamadılar. Salih Paşa, Fas topraklarından ayrıldı. Böylece Fas Sultanlığı biraz rahatlamış oldu. İspanyollar da kuvvet yığmış ve Cezayir'e taarruz etmeye hazırlanıyorlardı.Bölgede yaklaşık 45.000 kişilik Osmanlı kuvveti vardı, İstanbul'dan da yardım istenmiş ve deniz savunması güçlenmişti. Hasan Paşa, elindeki kuvvetler ile Fas topraklarına taarruz etti. Yaklaşık 45.000 kişilik Fas kuvvetini mağlup etti. Ancak, İspanyol güçlerinin cephe arkasına sızdığını öğrendi.Kıskaça düşmemek için savaşı bitirdi ve İspanyol güçlerinin peşine düştü. İspanyollara destek getiren nakliye gemileri, Osmanlı savaş gemilerince dağıtıldı. İspanyol güçleri ise Tilimsan şehrini almayı hedefliyordu. Fakat Tilimsan şehrini alamayacaklarını düşündüler ve Mostaganem Kalesine doğru ilerlediler.Kaleyi kuşatmaya aldıktan sonra Hasan Paşa'nın kuvvetleri, İspanyol kuvvetlerinin etrafını sardı. Yapılan meydan savaşında İspanyol güçleri tamamen dağıldı, komutanları Kont Alkodete öldürüldü. Mostaganem Savaşında İspanyol güçlerinin dağılması ile bölgede başka bir büyük İspanyol gücü kalmamış oldu.Dönemin İspanyol imparatoru II. Felipe, bölgeye daha fazla kuvvet gönderilmesini istemedi. Güçleri dağılmış olan Fas Sultanlığı da, İspanyol desteği kesilince Osmanlı İmparatorluğu'na teslim olmak zorunda kaldı. Fas, tam olarak Osmanlı toprağı olmadı ama Osmanlı'nın bölgedeki hakimiyetini kabul edecek, vergi verecekti.Böylece Kuzey Afrika'daki Fas ve İspanyol hakimiyeti son bulmuş oldu, Osmanlı hakimiyeti başladı. Bu savaştan kısa bir süre sonra da Cerbe Deniz Muharebesi yapılacak ve bölgenin kesin hakimi Osmanlı olacaktı."
+                }
+            ]
+        },
+        {
+            "title": "Celali isyanları",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Celâlî isyanları hangi yüzyılda çıkmıştır?",
+                            "id": 10049,
+                            "answers": [
+                                {
+                                    "answer_start": 18,
+                                    "text": "16. ve 17. yüzyıllarda"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "16. ve 17. yüzyıllarda çıka isyanın adı nedir?",
+                            "id": 10050,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Celâlî isyanları"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Celâlî isyanları Osmanlı yönetimindeki nerede çıkmıştır?",
+                            "id": 10051,
+                            "answers": [
+                                {
+                                    "answer_start": 64,
+                                    "text": "Anadolu'da"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Celâlî isyanları hangi Osmanlı padişahı döneminde başladı?",
+                            "id": 10052,
+                            "answers": [
+                                {
+                                    "answer_start": 75,
+                                    "text": "Yavuz Sultan Selim"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Celâlî isyanları devlete karşı hangi alanlarda ayaklanmalara verilen addır?",
+                            "id": 10053,
+                            "answers": [
+                                {
+                                    "answer_start": 182,
+                                    "text": "ekonomik, sosyal, askerî ve siyasî nedenlerle"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Celâlî tabiri ne demektir?",
+                            "id": 10054,
+                            "answers": [
+                                {
+                                    "answer_start": 256,
+                                    "text": "'Celâl’e mensup'"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "'Celâl’e mensup' ne demektir?",
+                            "id": 10055,
+                            "answers": [
+                                {
+                                    "answer_start": 288,
+                                    "text": "Celâlî"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Celâlî tabiri kiminle ilgilidir?",
+                            "id": 10056,
+                            "answers": [
+                                {
+                                    "answer_start": 343,
+                                    "text": "Bozoklu Şeyh Celâl’le"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Celâlî isyanları nasıl ortaya çıkmıştır?",
+                            "id": 10057,
+                            "answers": [
+                                {
+                                    "answer_start": 406,
+                                    "text": "Osmanlı idaresinden memnun olmayan zümrelerin ve Şiî eğilimli Türkmen gruplarının Safevîlerin de tahrikiyle devlete başkaldırmaları şeklinde ortaya çıkmış"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Celâlî isyanları ne zaman büyük bir mesele haline geldi?",
+                            "id": 10058,
+                            "answers": [
+                                {
+                                    "answer_start": 561,
+                                    "text": "16. yüzyılın sonlarından itibaren"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı devlet anlayışı isyanları nasıl değerlendirmektedir?",
+                            "id": 10059,
+                            "answers": [
+                                {
+                                    "answer_start": 697,
+                                    "text": "'hurûc ale’s-sultân'"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Bu ayaklanmaların adı, bu kapsamdaki ayaklanmaların ilkinin önderi kimdir?",
+                            "id": 10060,
+                            "answers": [
+                                {
+                                    "answer_start": 860,
+                                    "text": "Şeyh Celâl"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Şeyh Celâl nerelidir?",
+                            "id": 10061,
+                            "answers": [
+                                {
+                                    "answer_start": 881,
+                                    "text": "Bozoklu"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Bozok neresidir?",
+                            "id": 10062,
+                            "answers": [
+                                {
+                                    "answer_start": 889,
+                                    "text": "'Yozgat'"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "1519 yılında yönetime isyan eden kimlerdi?",
+                            "id": 10063,
+                            "answers": [
+                                {
+                                    "answer_start": 927,
+                                    "text": "topraksız köylüler, ağır vergilerden ezilenler, toprakları elinden alınmış eski sipahiler, sekbanlar, yerel idarecilerin baskı ve adaletsiz yönetiminden şikâyetçi olan kitleler"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Celali isyanı hangi yılda çıktı?",
+                            "id": 10064,
+                            "answers": [
+                                {
+                                    "answer_start": 1105,
+                                    "text": "1519 yılında"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Ayaklanma nerede başlamıştır?",
+                            "id": 10065,
+                            "answers": [
+                                {
+                                    "answer_start": 1150,
+                                    "text": "Tokat yöresinde"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Ayaklanma nasıl bastırıldı?",
+                            "id": 10066,
+                            "answers": [
+                                {
+                                    "answer_start": 1206,
+                                    "text": "kanlı bir biçimde bastırıldı"
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Celâlî isyanları, 16. ve 17. yüzyıllarda, Osmanlı yönetimindeki Anadolu'da Yavuz Sultan Selim döneminde başlayan ve IV. Mehmed dönemine kadar devam eden zaman zarfında devlete karşı ekonomik, sosyal, askerî ve siyasî nedenlerle ayaklananlara verilen addır.'Celâl’e mensup' anlamına gelen Celâlî tabiri, 16. yüzyıl başlarında '1519' isyan eden Bozoklu Şeyh Celâl’le ilgilidir. Celâlî isyanları başlangıçta, Osmanlı idaresinden memnun olmayan zümrelerin ve Şiî eğilimli Türkmen gruplarının Safevîlerin de tahrikiyle devlete başkaldırmaları şeklinde ortaya çıkmış,16. yüzyılın sonlarından itibaren büyük bir mesele hâlini alarak değişik bir mâhiyet kazanmıştır. Osmanlı devlet anlayışı, bu isyanları 'hurûc ale’s-sultân' olarak değerlendirmiş ve kaynaklarda bu ifade sık sık kullanılmıştır. Bu ayaklanmaların adı, bu kapsamdaki ayaklanmaların ilkinin önderi olan Şeyh Celâl’den gelir.Bozoklu 'Yozgat' olan Şeyh Celâl önderliğinde topraksız köylüler, ağır vergilerden ezilenler, toprakları elinden alınmış eski sipahiler, sekbanlar, yerel idarecilerin baskı ve adaletsiz yönetiminden şikâyetçi olan kitleler, 1519 yılında Osmanlı yönetimine başkaldırdı. Tokat yöresinde başlayan ayaklanma, aynı yıl içerisinde kanlı bir biçimde bastırıldı."
+                }
+            ]
+        },
+        {
+            "title": "Astrahan Seferi",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Astrahan Seferi ne zaman olmuştur?",
+                            "id": 10067,
+                            "answers": [
+                                {
+                                    "answer_start": 84,
+                                    "text": "1556 yılında"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Kırım Hanlığı nereye bağlıdır?",
+                            "id": 10068,
+                            "answers": [
+                                {
+                                    "answer_start": 36,
+                                    "text": "Osmanlı Devleti'ne"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Astrahan Seferi hangi olay üzerine çıkmıştır?",
+                            "id": 10069,
+                            "answers": [
+                                {
+                                    "answer_start": 97,
+                                    "text": "Rusya'nın eline geçen Astrahan Hanlığı'nı geri almak için"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı Devleti Astrahan Hanlı'ğını geri almak için nereye sefer düzenledi?",
+                            "id": 10070,
+                            "answers": [
+                                {
+                                    "answer_start": 155,
+                                    "text": "Astrahan ve Azak bölgeleri üzerine"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Rus Moskova Knezliği kaç yılında Kazan Hanlığı’na son vermiştir?",
+                            "id": 10071,
+                            "answers": [
+                                {
+                                    "answer_start": 235,
+                                    "text": "1552 yılında"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Rus Moskova Knezliği kaç yılında Astrahan Hanlığı’na son vermiştir?",
+                            "id": 10072,
+                            "answers": [
+                                {
+                                    "answer_start": 266,
+                                    "text": "1556 yılında"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "1556 yılında kim Astrahan Hanlığı’na son vermiştir?",
+                            "id": 10073,
+                            "answers": [
+                                {
+                                    "answer_start": 214,
+                                    "text": "Rus Moskova Knezliği"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "1552 yılında kim Kazan Hanlığı’na son vermiştir?",
+                            "id": 10074,
+                            "answers": [
+                                {
+                                    "answer_start": 214,
+                                    "text": "Rus Moskova Knezliği"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "1552 yılında Rus Moskova Knezliği nereye son vermiştir?",
+                            "id": 10075,
+                            "answers": [
+                                {
+                                    "answer_start": 248,
+                                    "text": "Kazan Hanlığı’na"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "1556 yılında Rus Moskova Knezliği nereye son vermiştir?",
+                            "id": 10076,
+                            "answers": [
+                                {
+                                    "answer_start": 282,
+                                    "text": "Astrahan Hanlığı’na"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Rus Moskova Knezliği hangi nehir boylarına güçlü bir şekilde yerleşmiştir?",
+                            "id": 10077,
+                            "answers": [
+                                {
+                                    "answer_start": 317,
+                                    "text": "Don 'Ten' ve Volga 'İdil'"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Don'un diğer adı nedir?",
+                            "id": 10078,
+                            "answers": [
+                                {
+                                    "answer_start": 321,
+                                    "text": "'Ten'"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Volga'nın diğer adı nedir?",
+                            "id": 10079,
+                            "answers": [
+                                {
+                                    "answer_start": 336,
+                                    "text": "'İdil'"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Moskova Prensi kimdir?",
+                            "id": 10080,
+                            "answers": [
+                                {
+                                    "answer_start": 408,
+                                    "text": "IV. İvan"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "IV. İvan kimdir?",
+                            "id": 10081,
+                            "answers": [
+                                {
+                                    "answer_start": 405,
+                                    "text": "Moskova Prensi"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "IV. İvan'ın lakabı nedir?",
+                            "id": 10082,
+                            "answers": [
+                                {
+                                    "answer_start": 414,
+                                    "text": "'Korkunç İvan'"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "IV. İvan nasıl Çar ünvanını aldı?",
+                            "id": 10083,
+                            "answers": [
+                                {
+                                    "answer_start": 432,
+                                    "text": "fetihleriyle"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hazar Denizi nerede?",
+                            "id": 10084,
+                            "answers": [
+                                {
+                                    "answer_start": 583,
+                                    "text": "Orta Asya ile Kırım ve Anadolu arasında"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Rus Prensliği neyin ilk adımını atmış oldu?",
+                            "id": 10085,
+                            "answers": [
+                                {
+                                    "answer_start": 725,
+                                    "text": "Urallardan Karadeniz üzerine sarkma stratejisinin ilk adımını"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Padişah II. Selim ile dâmâdı ve Sadrazam Sokollu Mehmed Paşa neyi sezdiler?",
+                            "id": 10086,
+                            "answers": [
+                                {
+                                    "answer_start": 861,
+                                    "text": "Rusya’nın Kafkasya ve Kırım’a sarkma tehlikesini"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Padişah II. Selim Rusya'nın sarkma tehlikesine karşı nasıl önlem almayı düşündü?",
+                            "id": 10087,
+                            "answers": [
+                                {
+                                    "answer_start": 950,
+                                    "text": "Astrahan kalesinin fethi ve bu kalenin bir tahkim edilmiş bir savunma sisteminin merkezi olarak kullanılması gerektiği düşünüldü"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Astrahan kalesinin fethi ne gibi sonuçlar yarattı?",
+                            "id": 10088,
+                            "answers": [
+                                {
+                                    "answer_start": 1088,
+                                    "text": "Rus Prensliğinin güneye ilerlemesi önlendi"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Eski doğu-batı Asya kervan yolları neresidir?",
+                            "id": 10089,
+                            "answers": [
+                                {
+                                    "answer_start": 1286,
+                                    "text": "'İpek ve Baharat Yolları'"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Astrahan Seferi hangi proje ile eşzamanlı yürütülmesine karar verildi?",
+                            "id": 10090,
+                            "answers": [
+                                {
+                                    "answer_start": 1918,
+                                    "text": "Don-Volga Kanal Projesi"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "İran Safevi Devleti nerenin yolunu keserek Türkistan'dan yola çıkan hacıların engeledi?",
+                            "id": 10091,
+                            "answers": [
+                                {
+                                    "answer_start": 1643,
+                                    "text": "Türkistan-Anadolu"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Kim Türkistan-Anadolu yolunu keserek Türkistan'dan yola çıkan hacıların engeledi?",
+                            "id": 10092,
+                            "answers": [
+                                {
+                                    "answer_start": 1616,
+                                    "text": "İran Safevi Devleti"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "İran Safevi Devleti Türkistan-Anadolu yolunu keserek neyi amaçladı?",
+                            "id": 10093,
+                            "answers": [
+                                {
+                                    "answer_start": 1676,
+                                    "text": "Türkistan'dan yola çıkan hacıların engelenmesi"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Kırım Hanı kimdir?",
+                            "id": 10094,
+                            "answers": [
+                                {
+                                    "answer_start": 2016,
+                                    "text": "I. Devlet Giray"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Selim I. Devlet Giray’a ne gönderdi?",
+                            "id": 10095,
+                            "answers": [
+                                {
+                                    "answer_start": 2038,
+                                    "text": "Hatt-ı Hümâyûn"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Selim I. Devlet Giray’a Hatt-ı Hümâyûn göndererek ne talimatı verdi?",
+                            "id": 10096,
+                            "answers": [
+                                {
+                                    "answer_start": 2064,
+                                    "text": "sefer hazırlıklarının başlanması"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Sadrazam Sokollu Mehmed Paşa sefer hazırlıkları için kimi görevlendirdi?",
+                            "id": 10097,
+                            "answers": [
+                                {
+                                    "answer_start": 2202,
+                                    "text": "Çerkez Kâsım Bey'i"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Çerkez Kâsım Bey kimdir?",
+                            "id": 10098,
+                            "answers": [
+                                {
+                                    "answer_start": 2179,
+                                    "text": "Şıkk-ı sâni defterdarı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Çerkez Kâsım Bey'e hangi ünvan verildi?",
+                            "id": 10099,
+                            "answers": [
+                                {
+                                    "answer_start": 2246,
+                                    "text": "paşalık ve 'Kefe Beylerbeyliği' ünvanı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Astrahan seferinin başarısızlığa uğramasında kimin payı büyüktür?",
+                            "id": 10100,
+                            "answers": [
+                                {
+                                    "answer_start": 2342,
+                                    "text": "Kırım Hanı'nın"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Devlet Giray Han neyden korkuyordu?",
+                            "id": 10101,
+                            "answers": [
+                                {
+                                    "answer_start": 2530,
+                                    "text": "kendi yokluğunda Osmanlı sultanının Kırım tahtına Kırım Giray'ı oturtacağından korkuyordu"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Devlet Giray Han tahtını kaybedeceğini korktuğu için ne yapmıştır?",
+                            "id": 10102,
+                            "answers": [
+                                {
+                                    "answer_start": 2635,
+                                    "text": "sefere çıkmadan önce Çar IV.İvan'a elçi göndererek Osmanlıların Astrahan seferine hazırlandıklarını bildirmiştir"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Devlet Giray, Çar IV.İvan'a ne söylemiştir?",
+                            "id": 10103,
+                            "answers": [
+                                {
+                                    "answer_start": 2779,
+                                    "text": "Astrahan'ı teslim etmesini gerektiği"
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Astrahan Seferi, Osmanlı Devleti ve Osmanlı Devleti'ne bağlı olan Kırım Hanlığı'nın 1556 yılında Rusya'nın eline geçen Astrahan Hanlığı'nı geri almak için Astrahan ve Azak bölgeleri üzerine düzenledikleri seferdir.Rus Moskova Knezliği 1552 yılında Kazan Hanlığı’na; 1556 yılında da Astrahan Hanlığı’na son vermiş, ve Don 'Ten' ve Volga 'İdil' nehir boylarına güçlü bir şekilde yerleşmişti. Moskova Prensi IV. İvan 'Korkunç İvan' bu fetihleriyle Çar unvanını da almıştı.İlerleyen yüzyıllarda Rus ekonomisinin candamarı haline gelecek olan bölgenin Rusya tarafından ilhak edilmesiyle, Orta Asya ile Kırım ve Anadolu arasındaki Hazar Denizi’nin kuzeyinden geçen ticaret yolu ve Hac yolu da kesintiye uğramıştı.Rus Prensliği ise Urallardan Karadeniz üzerine sarkma stratejisinin ilk adımını atmış oldu. Padişah II. Selim ile dâmâdı ve Sadrazam Sokollu Mehmed Paşa, Rusya’nın Kafkasya ve Kırım’a sarkma tehlikesini sezdiler.Bunu önlemek stratejisi olarak Astrahan kalesinin fethi ve bu kalenin bir tahkim edilmiş bir savunma sisteminin merkezi olarak kullanılması gerektiği düşünüldü. Böylece Rus Prensliğinin güneye ilerlemesi önlendi ve Osmanlı Devleti'nin Safevi devletinin Kafkaslar ve Azerbaycan'dan atılma stratejisini kolaylaştırılacaktı.Ayrica eski doğu-batı Asya kervan yollarından 'İpek ve Baharat Yolları' biri tekrar açılabilecek ve Orta Asya'da bulunan ve Safavi aleyhtarı olan Özbekler ile bağlantı kolaylaşacaktı.Bu bağlantının kolaylaştırılması için Don ile Volga arasında bir kanal açılması ve Karadeniz ile Hazer Denizi arasında su üzerinden bağlantının sağlanması da imkân dahiline girmişti. Bu sırada İran Safevi Devleti’nin de Türkistan-Anadolu yolunu keserek Türkistan'dan yola çıkan hacıların engelenmesi haberi geldi.Ana stratejiyi uygulamak ve hacıların engelenmesi taktik sorununun çözümlenmesi niyeti ile bir Astrahan Seferi düzenlemesi için kesin bir şekilde karar verildi. Astrahan Seferi’nin, Don-Volga Kanal Projesi ile eşzamanlı olarak yürütülmesi de kararlaştırıldı.II. Selim, Kırım Hanı I. Devlet Giray’a bir Hatt-ı Hümâyûn göndererek sefer hazırlıklarının başlanması talimatını verdi. Sadrazam Sokollu Mehmed Paşa da bu iş için, bölgeyi iyi tanıyan Şıkk-ı sâni defterdarı Çerkez Kâsım Bey'i görevlendirdi. Kendisine paşalık ve 'Kefe Beylerbeyliği' ünvanı verildi.Astrahan seferinin başarısızlığa uğramasında ise Kırım Hanı'nın etkisi büyüktür. Baştan beri sefere karşı isteksiz davranan Devlet Giray, sefer sırasında çok pasif davranmış, bir an önce Kırım'a dönme arzusu taşımıştır.Devlet Giray Han, kendi yokluğunda Osmanlı sultanının Kırım tahtına Kırım Giray'ı oturtacağından korkuyordu.Bu yüzden daha sefere çıkmadan önce Çar IV.İvan'a elçi göndererek Osmanlıların Astrahan seferine hazırlandıklarını bildirmiştir. Devlet Giray, Çar IV.İvan'dan Astrahan'ı teslim etmesini gerektiği söylemiş. Bu sayede Sultan'ı seferden vazgeçmeye ikna edeceğini söylemiştir."
+                }
+            ]
+        },
+        {
+            "title": "İstanbul'un Fethi",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "İstanbul'un Fethi hangi tarihler arasında oldu?",
+                            "id": 10104,
+                            "answers": [
+                                {
+                                    "answer_start": 19,
+                                    "text": "6 Nisan-29 Mayıs 1453 tarihleri"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Savaş ne zaman son buldu?",
+                            "id": 10105,
+                            "answers": [
+                                {
+                                    "answer_start": 100,
+                                    "text": "II. Mehmed komutasındaki birliklerin Bizans İmparatorluğu'nun başkenti İstanbul'u ele geçirmesiyle"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "İstanbul daha önce kimler tarafından kuşatıldı?",
+                            "id": 10106,
+                            "answers": [
+                                {
+                                    "answer_start": 278,
+                                    "text": "Emeviler ve Abbasiler tarafından"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "İstanbul daha önce hangi asırlarda kuşatıldı?",
+                            "id": 10107,
+                            "answers": [
+                                {
+                                    "answer_start": 257,
+                                    "text": "VII.-VIII. asırlarda"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlılar'ın Matheos Kantakuzinos'un Bizans tahtına geçmesinin sağlanmasının sonucu ne oldu?",
+                            "id": 10108,
+                            "answers": [
+                                {
+                                    "answer_start": 450,
+                                    "text": "ödül olarak Çimpe Kalesi'ni alarak Rumeli'de ilk kez toprak kazanmışlardı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlılar kimin Bizans tahtına geçmesinin sağladı?",
+                            "id": 10109,
+                            "answers": [
+                                {
+                                    "answer_start": 386,
+                                    "text": "Matheos Kantakuzinos'un"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Rumeli'ye geçişle beraber bölgede sınırları genişleyen Osmanlılar ilk kez hangi padişah döneminde İstanbul'u kuşattı?",
+                            "id": 10110,
+                            "answers": [
+                                {
+                                    "answer_start": 599,
+                                    "text": "I. Bayezid"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "I. Bayezid İstanbul'u hangi tarihte kuşattı?",
+                            "id": 10111,
+                            "answers": [
+                                {
+                                    "answer_start": 622,
+                                    "text": "1395 yılında"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı'nın Rumeli'de kazandığı ilk toprak neresidir?",
+                            "id": 10112,
+                            "answers": [
+                                {
+                                    "answer_start": 462,
+                                    "text": "Çimpe Kalesi"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Çimpe Kalesi'nin Osmanlı için önemi nedir?",
+                            "id": 10113,
+                            "answers": [
+                                {
+                                    "answer_start": 485,
+                                    "text": "Rumeli'de ilk kez toprak kazanmışlardı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "I. Bayezid'in kuşatmasında neler kullanıldı?",
+                            "id": 10114,
+                            "answers": [
+                                {
+                                    "answer_start": 755,
+                                    "text": "mancınıklar"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Macar Krallığı nereye taaruz etti?",
+                            "id": 10115,
+                            "answers": [
+                                {
+                                    "answer_start": 810,
+                                    "text": "günümüz Bulgaristan topraklarına"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Macar Krallığı nereye taaruz etmesinin sonucunda ne oldu?",
+                            "id": 10116,
+                            "answers": [
+                                {
+                                    "answer_start": 859,
+                                    "text": "İstanbul kuşatması sonlandırıldı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Anadolu Hisarı neden inşa edildi?",
+                            "id": 10117,
+                            "answers": [
+                                {
+                                    "answer_start": 939,
+                                    "text": "deniz bağlantısını tümüyle koparmak için"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "İkinci kuşatma neden kaldırıldı?",
+                            "id": 10118,
+                            "answers": [
+                                {
+                                    "answer_start": 1008,
+                                    "text": "Bizans imparatorunun ateşkes talebi üzerine"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Ankara Savaşı'yla beraber Osmanlı Devleti hangi devr girdi?",
+                            "id": 10119,
+                            "answers": [
+                                {
+                                    "answer_start": 1114,
+                                    "text": "Fetret Devri'ne"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı Devleti hangi savaşla Fetret Devri'ne girdi?",
+                            "id": 10120,
+                            "answers": [
+                                {
+                                    "answer_start": 1072,
+                                    "text": "Ankara Savaşı'yla"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Musa Çelebi kimdir?",
+                            "id": 10121,
+                            "answers": [
+                                {
+                                    "answer_start": 1147,
+                                    "text": "Bayezid'in oğullarından"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "1412 yılında İstanbul kim tarafından tekrar kuşatıldı?",
+                            "id": 10122,
+                            "answers": [
+                                {
+                                    "answer_start": 1171,
+                                    "text": "Musa Çelebi"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Musa Çelebi hangi İstanbul'u kuşattı?",
+                            "id": 10123,
+                            "answers": [
+                                {
+                                    "answer_start": 1194,
+                                    "text": "1412 yılında"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Musa Çelebi kuşatma ile ilgili neye inanıyordu?",
+                            "id": 10124,
+                            "answers": [
+                                {
+                                    "answer_start": 1247,
+                                    "text": "kargaşanın Bizans yüzünden olduğuna ve bazı rakip şehzadelerin Bizans tarafından desteklendiğine"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Musa Çelebi kuşatmayı neden kaldırdı?",
+                            "id": 10125,
+                            "answers": [
+                                {
+                                    "answer_start": 1291,
+                                    "text": "rakip şehzadelerden I. Mehmed'in harekete geçmesi sebebiyle"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Dördüncü kuşatma hangi padişah döneminde oldu?",
+                            "id": 10126,
+                            "answers": [
+                                {
+                                    "answer_start": 1468,
+                                    "text": "II. Murad"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Murad döneminde kaçıncı İstanbul kuşatması olmuştur?",
+                            "id": 10127,
+                            "answers": [
+                                {
+                                    "answer_start": 1447,
+                                    "text": "Dördüncü"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Murad elçiler göndererek ne talep etmiştir?",
+                            "id": 10128,
+                            "answers": [
+                                {
+                                    "answer_start": 1523,
+                                    "text": "Düzmece Mustafa'nın desteklenmemesini"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "İsyan ile uğraşan II. Murat neden yeniden İstanbul'u kuşattı?",
+                            "id": 10129,
+                            "answers": [
+                                {
+                                    "answer_start": 1626,
+                                    "text": "Şehzade Mustafa'ya yardım ettiğine inandığı için"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Bizans İmparatoru kimdir?",
+                            "id": 10130,
+                            "answers": [
+                                {
+                                    "answer_start": 1753,
+                                    "text": "VII. İoannis"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "VII. İoannis kimdir?",
+                            "id": 10131,
+                            "answers": [
+                                {
+                                    "answer_start": 1735,
+                                    "text": "Bizans İmparatoru"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Murad'ın yaptığı kuşatma neden kaldırıldı?",
+                            "id": 10132,
+                            "answers": [
+                                {
+                                    "answer_start": 1753,
+                                    "text": "VII. İoannis'in Karadeniz kıyılarındaki bazı toprakları ve haraç vermeyi teklif etmesiyle"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Mehmed tahta geçtiğinde nasıl bir şehirle karşı karşıyaydı?",
+                            "id": 10133,
+                            "answers": [
+                                {
+                                    "answer_start": 1896,
+                                    "text": "etrafı bütünüyle sarılmış bir şehirle"
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "İstanbul'un Fethi, 6 Nisan-29 Mayıs 1453 tarihleri arasındaki kuşatmanın sonucunda Osmanlı Padişahı II. Mehmed komutasındaki birliklerin Bizans İmparatorluğu'nun başkenti İstanbul'u ele geçirmesiyle son buldu. İstanbul, daha önce de defalarca kuşatılmıştı; VII.-VIII. asırlarda Emeviler ve Abbasiler tarafından kuşatıldı ancak başarısız olundu.Osmanlılar da şehri daha önce kuşatmıştı, Matheos Kantakuzinos'un Bizans tahtına geçmesini sağlamışlar ve ödül olarak Çimpe Kalesi'ni alarak Rumeli'de ilk kez toprak kazanmışlardı. Rumeli'ye geçişle beraber bölgede sınırları genişleyen Osmanlılar ilk kez I. Bayezid komutasında 1395 yılında İstanbul'u kuşattı. Bazı kaynaklarda ise 1391 tarihli farklı bir kuşatmadan söz edilmektedir.I. Bayezid'in kuşatmasında mancınıklar kullanıldı, kuşatma üzerine Macar Krallığı günümüz Bulgaristan topraklarına taarruz etti ve İstanbul kuşatması sonlandırıldı. Ertesi yıl kuşatma tekrar başladı ve bu sefer deniz bağlantısını tümüyle koparmak için Anadolu Hisarı inşa edildi. Bizans imparatorunun ateşkes talebi üzerine kuşatma kaldırıldı. Ankara Savaşı'yla beraber Osmanlı Devleti Fetret Devri'ne girdi.Bu dönemde Bayezid'in oğullarından Musa Çelebi tarafından 1412 yılında İstanbul tekrar kuşatıldı. Musa Çelebi, kargaşanın Bizans yüzünden olduğuna ve bazı rakip şehzadelerin Bizans tarafından desteklendiğine inanıyordu. Ancak rakip şehzadelerden I. Mehmed'in harekete geçmesi sebebiyle bu kuşatma da kaldırıldı.Dördüncü kuşatma ise II. Murad döneminde oldu; II. Murad elçiler göndererek Düzmece Mustafa'nın desteklenmemesini talep etti ancak karşılık bulamadı. İsyan ile uğraşan II. Murat, Şehzade Mustafa'ya yardım ettiğine inandığı için Bizans İmparatorluğu'nun üzerine yürüdü ve kuşatma başladı. Bizans İmparatoru VII. İoannis'in Karadeniz kıyılarındaki bazı toprakları ve haraç vermeyi teklif etmesiyle bu kuşatma da kaldırıldı.II. Mehmed tahta geçtiğinde etrafı bütünüyle sarılmış bir şehirle karşı karşıyaydı."
+                },
+                {
+                    "qas": [
+                        {
+                            "question": "II. Murat tahtıdan ne zaman feraget etmiştir?",
+                            "id": 10134,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "1444'te"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Murat kendi isteğiyle yerini kime bıraktı?",
+                            "id": 10135,
+                            "answers": [
+                                {
+                                    "answer_start": 65,
+                                    "text": "oğlu Mehmed'e"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Mehmed tahta geçtiğinde kaç yaşındaydı?",
+                            "id": 10136,
+                            "answers": [
+                                {
+                                    "answer_start": 99,
+                                    "text": "12 yaşındaydı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Dönemin sadrazamı kimdi?",
+                            "id": 10137,
+                            "answers": [
+                                {
+                                    "answer_start": 153,
+                                    "text": "Çandarlı Halil Paşa"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Çandarlı Halil Paşa kimdi?",
+                            "id": 10138,
+                            "answers": [
+                                {
+                                    "answer_start": 135,
+                                    "text": "dönemin sadrazamı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Taht değişikliği sonucu ne oldu?",
+                            "id": 10139,
+                            "answers": [
+                                {
+                                    "answer_start": 233,
+                                    "text": "Haçlı ordusu kuruldu ve Osmanlı üzerine yürüdü"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Sultan Mehmed babasına yazdığı mektupta ne dedi?",
+                            "id": 10140,
+                            "answers": [
+                                {
+                                    "answer_start": 357,
+                                    "text": "'Baba, eğer padişah siz iseniz geliniz ve ordunun başına geçiniz, yok eğer padişah ben isem size emrediyorum gelip ordunun başına geçiniz'"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Murat neden geri geldi?",
+                            "id": 10141,
+                            "answers": [
+                                {
+                                    "answer_start": 499,
+                                    "text": "mektubun etkisi ve devlet adamlarının ricasıyla"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Murat geri geldikten sonra başkomutan olarak yönettiği savaş hangisidir?",
+                            "id": 10142,
+                            "answers": [
+                                {
+                                    "answer_start": 599,
+                                    "text": "Varna Muharebesi"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Murat neden tekrar tahta çıktı?",
+                            "id": 10143,
+                            "answers": [
+                                {
+                                    "answer_start": 649,
+                                    "text": "devlet adamlarının da telkinleriyle"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Tahttan indirilen veliaht Mehmed nereye gönderildi?",
+                            "id": 10144,
+                            "answers": [
+                                {
+                                    "answer_start": 748,
+                                    "text": "Manisa'ya"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Murat hangi yılda tahtı yenşden oğluna bıraktı?",
+                            "id": 10145,
+                            "answers": [
+                                {
+                                    "answer_start": 769,
+                                    "text": "Kasım 1445'te"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Mehmed'in ikinci hükümdarlığında hangi olaylar yaşandı?",
+                            "id": 10146,
+                            "answers": [
+                                {
+                                    "answer_start": 872,
+                                    "text": "yangın ve yağma olayları yaşandı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Mehmed'in ikinci hükümdarlığında yangın ve yağma olayları nerede yaşandı?",
+                            "id": 10147,
+                            "answers": [
+                                {
+                                    "answer_start": 862,
+                                    "text": "Edirne'de"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Kimlerin girişimleriyle Mehmed tekrar tahttan indirildi?",
+                            "id": 10148,
+                            "answers": [
+                                {
+                                    "answer_start": 906,
+                                    "text": "Halil Paşa'nın ve diğer devlet adamlarının girişimleriyle"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "genç Mehmed tahttan indirildiğini ne zaman öğrendi?",
+                            "id": 10149,
+                            "answers": [
+                                {
+                                    "answer_start": 1149,
+                                    "text": "avdan dönünce"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hangi yıllar arasında Mehmed geçici hükümdarlık yaptı?",
+                            "id": 10150,
+                            "answers": [
+                                {
+                                    "answer_start": 1171,
+                                    "text": "1444-46 arasında"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Mehmed ne zaman son kez tahta geçti?",
+                            "id": 10151,
+                            "answers": [
+                                {
+                                    "answer_start": 1232,
+                                    "text": "1451'de babasının ölümü üzerine"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Zağanos Paşa kim tarafında sürgün edildi?",
+                            "id": 10152,
+                            "answers": [
+                                {
+                                    "answer_start": 1286,
+                                    "text": "Sadrazam Halil Paşa"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Sadrazam Halil Paşa tarafında sürgün edilen kimdi?",
+                            "id": 10153,
+                            "answers": [
+                                {
+                                    "answer_start": 1331,
+                                    "text": "Zağanos Paşa"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Mehmed'in müdahelesiyle Zağanos Paşa nereye geri döndü?",
+                            "id": 10154,
+                            "answers": [
+                                {
+                                    "answer_start": 1373,
+                                    "text": "Edirne'ye"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Mehmed neden Halil Paşa'yı düşman olarak görmektedir?",
+                            "id": 10155,
+                            "answers": [
+                                {
+                                    "answer_start": 1574,
+                                    "text": "Tahttan indirilmesine sebep olduğu ve kuşatmayı uygun görmediği için"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Mehmed neden Rumeli Hisarı'nın yapımını gerekli gördü?",
+                            "id": 10156,
+                            "answers": [
+                                {
+                                    "answer_start": 1724,
+                                    "text": "İstanbul'un deniz bağlantısını tümüyle kesmek, kuşatma esnasında şehre herhangi bir yardımın gelmesini önlemek için"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Rumeli Hisarı'nın konumu neresiydi?",
+                            "id": 10157,
+                            "answers": [
+                                {
+                                    "answer_start": 1926,
+                                    "text": "Anadolu Hisarı'nın karşısıydı"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Rumeli Hisarı'nın inşasına ne zaman başlandı?",
+                            "id": 10158,
+                            "answers": [
+                                {
+                                    "answer_start": 1957,
+                                    "text": "1452 yılının nisan ayında"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Rumeli Hisarı'nın yapımında kaç bin işçi çalıştığı belirtilmektedir?",
+                            "id": 10159,
+                            "answers": [
+                                {
+                                    "answer_start": 2026,
+                                    "text": "beş veya altı bin"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Rumeli Hisarı'nın inşası ne zaman bitti?",
+                            "id": 10160,
+                            "answers": [
+                                {
+                                    "answer_start": 2121,
+                                    "text": "Ağustos ayında"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Rumeli Hisarı'nın kaç burcu bulunmaktadır?",
+                            "id": 10161,
+                            "answers": [
+                                {
+                                    "answer_start": 2158,
+                                    "text": "on üç"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Üç büyük burcun üstü ne ile örtüldü?",
+                            "id": 10162,
+                            "answers": [
+                                {
+                                    "answer_start": 2206,
+                                    "text": "kurşun çatı ile"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "400 askerin ve hisarın komutası kime verildi?",
+                            "id": 10163,
+                            "answers": [
+                                {
+                                    "answer_start": 2263,
+                                    "text": "Firuz Ağa'ya"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Firuz Ağa'ya ne verildi?",
+                            "id": 10164,
+                            "answers": [
+                                {
+                                    "answer_start": 2231,
+                                    "text": "400 askerin ve hisarın komutası"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Rumeli Hisarı'nın inşası ve boğaz trafiğinin kapatılması Bizans tarafında nasıl karşılandı?",
+                            "id": 10165,
+                            "answers": [
+                                {
+                                    "answer_start": 2341,
+                                    "text": "Bizans İmparatorluğunu endişelendirmiştir"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hisarın yapımının durdurulması için gönderilen iki Bizans elçisine ne oldu?",
+                            "id": 10166,
+                            "answers": [
+                                {
+                                    "answer_start": 2449,
+                                    "text": "II. Mehmed'in emriyle idam edildi"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "İki Venedik gemisi ne zaman boğazdan geçme teşebbüsünde bulundu?",
+                            "id": 10167,
+                            "answers": [
+                                {
+                                    "answer_start": 2484,
+                                    "text": "Kasım 1452'de"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hangi isimli kaptanın gemisi batırıldı?",
+                            "id": 10168,
+                            "answers": [
+                                {
+                                    "answer_start": 2585,
+                                    "text": "Antonio Rizzo"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Denize atlayarak kurtulan Rizzo'ya ne oldu?",
+                            "id": 10169,
+                            "answers": [
+                                {
+                                    "answer_start": 2663,
+                                    "text": "esir alındı ve Edirne'ye götürülerek kazığa oturtuldu"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Rizzo'ya nereye kazığa oturtulmak için nereye götürüldü?",
+                            "id": 10170,
+                            "answers": [
+                                {
+                                    "answer_start": 2678,
+                                    "text": "Edirne'ye"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Kaptanın affedilmesi için İstanbul'dan ayrılan Venedik elçisi ne olduğunu bildirdi?",
+                            "id": 10171,
+                            "answers": [
+                                {
+                                    "answer_start": 2781,
+                                    "text": "infazın yapıldığını görünce geri döndü ve Osmanlıların Venedik'e de savaş açtığı kabul edildi"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Askerî hazırlıklarda neyin yapımına başlandı?",
+                            "id": 10172,
+                            "answers": [
+                                {
+                                    "answer_start": 2896,
+                                    "text": "dönemine göre büyük topların yapımına"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Urban kimdir?",
+                            "id": 10173,
+                            "answers": [
+                                {
+                                    "answer_start": 3009,
+                                    "text": "bir mühendis"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Urban nereden kaçırıldı?",
+                            "id": 10174,
+                            "answers": [
+                                {
+                                    "answer_start": 2944,
+                                    "text": "Bizans zindanlarından"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Urban'ı kim tarafından kaçırdı?",
+                            "id": 10175,
+                            "answers": [
+                                {
+                                    "answer_start": 2966,
+                                    "text": "lağımcılar"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Urban'ın da üzerinde çalıştığı topun adı nedir?",
+                            "id": 10176,
+                            "answers": [
+                                {
+                                    "answer_start": 3035,
+                                    "text": "şahi topu"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Şahi topun tek güllesi kaç kilogramdı?",
+                            "id": 10177,
+                            "answers": [
+                                {
+                                    "answer_start": 3076,
+                                    "text": "550 kilogram"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Şahi topun uzulunğu kaç metreydi?",
+                            "id": 10178,
+                            "answers": [
+                                {
+                                    "answer_start": 3120,
+                                    "text": "8"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Şahi topun çevresi kaç metreydi?",
+                            "id": 10179,
+                            "answers": [
+                                {
+                                    "answer_start": 3134,
+                                    "text": "2.5"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Şahi topun İstanbul'a götürülmesini kim üstlendi?",
+                            "id": 10180,
+                            "answers": [
+                                {
+                                    "answer_start": 3200,
+                                    "text": "Dayı Karaca Paşa"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Dayı Karaca Paşa kimdir?",
+                            "id": 10181,
+                            "answers": [
+                                {
+                                    "answer_start": 3182,
+                                    "text": "Rumeli Beylerbeyi"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Rumeli Beylerbeyi kimdir?",
+                            "id": 10182,
+                            "answers": [
+                                {
+                                    "answer_start": 3200,
+                                    "text": "Dayı Karaca Paşa"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı ordusunun mevcudu Hammer'e göre kaç askerdi?",
+                            "id": 10183,
+                            "answers": [
+                                {
+                                    "answer_start": 3309,
+                                    "text": "250.000"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı ordusunun mevcudu Barbaro'ya göre kaç askerdi?",
+                            "id": 10184,
+                            "answers": [
+                                {
+                                    "answer_start": 3334,
+                                    "text": "160.000"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı ordusunun mevcudu Sfrantzes göre kaç askerdi?",
+                            "id": 10185,
+                            "answers": [
+                                {
+                                    "answer_start": 3369,
+                                    "text": "200.000"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı ordusunun mevcudu SfraDukas'antzes göre kaç askerdi?",
+                            "id": 10186,
+                            "answers": [
+                                {
+                                    "answer_start": 3369,
+                                    "text": "200.000"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı filosunun komutasında kim vardı?",
+                            "id": 10187,
+                            "answers": [
+                                {
+                                    "answer_start": 3462,
+                                    "text": "Baltaoğlu Süleyman Paşa"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Baltaoğlu Süleyman Paşa'ya verilen filosunun mevcudiyeti Dukas'a göre kaçtı?",
+                            "id": 10188,
+                            "answers": [
+                                {
+                                    "answer_start": 3573,
+                                    "text": "300"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Baltaoğlu Süleyman Paşa'ya verilen filosunun mevcudiyeti Yeorgios Francis göre kaçtı?",
+                            "id": 10189,
+                            "answers": [
+                                {
+                                    "answer_start": 3599,
+                                    "text": "160"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Kuşatmadan önce kentin çevresinde nereler ele geçirildi?",
+                            "id": 10190,
+                            "answers": [
+                                {
+                                    "answer_start": 3650,
+                                    "text": "bazı kaleler ve kasabalar"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Kuşatmadan önce kentin çevresinde bazı kaleler ve kasabalar kim tarafından ele geçirildi?",
+                            "id": 10191,
+                            "answers": [
+                                {
+                                    "answer_start": 3702,
+                                    "text": "10.000 asker tarafından"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Kuşatmadan önce kentin çevresinde bazı kaleler ve kasabaları ele geçiren askerin başında kim vardı?",
+                            "id": 10192,
+                            "answers": [
+                                {
+                                    "answer_start": 3676,
+                                    "text": "Karaca Paşa"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Bizans İmparatoru Konstantin, son diplomatik girişim olarak ne yaptı?",
+                            "id": 10193,
+                            "answers": [
+                                {
+                                    "answer_start": 3800,
+                                    "text": "kent dışındaki Rum köylerinin ve bu köylerde yaşayan sivillerin zarar görmemesini rica etti"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Bizans İmparatoru Konstantin'in son diplomatik girişimine Mehmed ne yanıt verdi?",
+                            "id": 10194,
+                            "answers": [
+                                {
+                                    "answer_start": 3898,
+                                    "text": "II. Mehmed tam aksini yaparak Rum köylerinde hayvanların otlanmasını ve rastlanılan köylülerin derhal öldürülmesini emretti"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "II. Mehmed'in bu hareketine İmparator Konstantin'in tepkisi ne oldu?",
+                            "id": 10195,
+                            "answers": [
+                                {
+                                    "answer_start": 4058,
+                                    "text": "İstanbul kapılarını kapatmak ve kentteki Türkleri hapsetmek oldu"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Mora Despotluğu kim tarafından yönetiliyordu?",
+                            "id": 10196,
+                            "answers": [
+                                {
+                                    "answer_start": 4124,
+                                    "text": "Konstantin'in kardeşleri tarafından"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Hangi tarihte Osmanlı kara ordusu, Haliç'ten Marmara'ya uzanacak şekilde surların önüne mevzilendi?",
+                            "id": 10197,
+                            "answers": [
+                                {
+                                    "answer_start": 4223,
+                                    "text": "6 Nisan 1453'te"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Bizans ve müttefikleri tarafından zayıf bulunan yer neresidir?",
+                            "id": 10198,
+                            "answers": [
+                                {
+                                    "answer_start": 4383,
+                                    "text": "Adrianopolis"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Osmanlı kara ordusu nereye mevzilendi?",
+                            "id": 10199,
+                            "answers": [
+                                {
+                                    "answer_start": 4260,
+                                    "text": "Haliç'ten Marmara'ya uzanacak şekilde surların önüne"
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "1444'te tahtından feragat eden II. Murat, kendi isteğiyle yerini oğlu Mehmed'e bıraktı. II. Mehmed 12 yaşındaydı ve acemi görülüyordu, dönemin sadrazamı Çandarlı Halil Paşa bu kararı uygun bulmamıştı. Bu taht değişikliği üzerine bir Haçlı ordusu kuruldu ve Osmanlı üzerine yürüdü, Sultan Mehmed 12 yaşında olmasına rağmen babasına şu tarihi mektubu yolladı;'Baba, eğer padişah siz iseniz geliniz ve ordunun başına geçiniz, yok eğer padişah ben isem size emrediyorum gelip ordunun başına geçiniz' Bu mektubun etkisi ve devlet adamlarının ricasıyla II. Murat geri geldi ve başkomutan olarak yönettiği Varna Muharebesi'ni kazandı. Bu muharebeden sonra devlet adamlarının da telkinleriyle II. Murat tekrar tahta çıktı, tahttan indirilen veliaht Mehmed Manisa'ya gönderildi.Kasım 1445'te II. Murat tekrar tahtı oğlu Mehmed'e bıraktı, Mehmed'in ikinci hükümdarlığında Edirne'de yangın ve yağma olayları yaşandı. Halil Paşa'nın ve diğer devlet adamlarının girişimleriyle Mehmed tekrar tahttan indirildi. Hammer'a göre II. Mehmed'e tekrar tahttan inmesi teklif edilmedi, Halil Paşa kendisine birlikte ava gitmeyi önerdi ve genç Mehmed tahttan indirildiğini avdan dönünce öğrendi.1444-46 arasında geçici olarak hükümdarlık yapan II. Mehmed, 1451'de babasının ölümü üzerine son defa tahta çıktı. Sadrazam Halil Paşa tarafından sürgün edilen Zağanos Paşa, II. Mehmed'in müdahelesiyle Edirne'ye geri döndü. Halil ile Zağanos paşaların arasındaki anlaşmazlık kuşatmada da görülecek; Halil Paşa kuşatmadan vazgeçilmesini, Zağanos Paşa ise tam aksine kuşatmanın sürdürülmesini isteyecekti.Tahttan indirilmesine sebep olduğu ve kuşatmayı uygun görmediği için Halil Paşa'nın II. Mehmed tarafından düşman olarak algılandığı belirtilmektedir. İstanbul'un deniz bağlantısını tümüyle kesmek, kuşatma esnasında şehre herhangi bir yardımın gelmesini önlemek için II. Mehmed, Rumeli Hisarı'nın yapımını gerekli gördü. Konumu I. Bayezid'in yaptırdığı Anadolu Hisarı'nın karşısıydı; 1452 yılının nisan ayında inşa çalışmaları başladı.Hisarın yapımında beş veya altı bin işçinin çalıştığı belirtilmektedir. II. Mehmed inşaatla bizzat ilgileniyordu.Ağustos ayında inşaat bitti; hisarın on üç burcu bulunmaktaydı. Üç büyük burcun üstü kurşun çatı ile örtüldü. 400 askerin ve hisarın komutası Firuz Ağa'ya verildi.Rumeli Hisarı'nın inşası ve boğaz trafiğinin kapatılması Bizans İmparatorluğunu endişelendirmiştir.Hisarın yapımının durdurulması için gönderilen iki Bizans elçisi, II. Mehmed'in emriyle idam edildi. Kasım 1452'de iki Venedik gemisi boğazdan geçme teşebbüsünde bulundu, iki hisardan da ateş açıldı ve Antonio Rizzo adlı kaptanın gemisi batırıldı.Denize atlayarak kurtulan Rizzo, esir alındı ve Edirne'ye götürülerek kazığa oturtuldu. Kaptanın affedilmesi için İstanbul'dan ayrılan Venedik elçisi, infazın yapıldığını görünce geri döndü ve Osmanlıların Venedik'e de savaş açtığı kabul edildi.Askerî hazırlıklarda dönemine göre büyük topların yapımına başlandı. Bizans zindanlarından lağımcılar tarafından kaçırılan Urban adlı bir mühendisin yaptırdığı şahi topu bunlardan biriydi, tek güllesi 550 kilogram civarındaydı ve topun uzunluğu 8, çevresi de 2.5 metreydi. Bu topun İstanbul'a götürülmesini Rumeli Beylerbeyi Dayı Karaca Paşa üstlendi.Osmanlı ordusunun mevcudu hakkında çeşitli düşünceler bulunmaktadır, Hammer'a göre 250.000, Barbaro'ya göre 160.000, Sfrantzes ve Dukas'a göre 200.000 asker idi.Kuşatmada denizden destek vermesi için Osmanlı Donanması da hazırlanmıştı; Baltaoğlu Süleyman Paşa'nın komutasına verilen filonun mevcudiyeti hakkında farklı düşünceler mevcuttur; Dukas 300, Yeorgios Francis ise 160 demektedir.Kuşatmadan önce kentin çevresindeki bazı kaleler ve kasabalar Karaca Paşa komutasındaki 10.000 asker tarafından ele geçirildi.Bizans İmparatoru Konstantin, son diplomatik girişim olarak kent dışındaki Rum köylerinin ve bu köylerde yaşayan sivillerin zarar görmemesini rica etti ancak II. Mehmed tam aksini yaparak Rum köylerinde hayvanların otlanmasını ve rastlanılan köylülerin derhal öldürülmesini emretti.İmparator Konstantin'in tepkisi ise İstanbul kapılarını kapatmak ve kentteki Türkleri hapsetmek oldu. Konstantin'in kardeşleri tarafından yönetilen Mora Despotluğu üzerine Osmanlı saldırıları başladı. 6 Nisan 1453'te Osmanlı kara ordusu, Haliç'ten Marmara'ya uzanacak şekilde surların önüne mevzilendi. Aynı gün, Bizans ve müttefikleri tarafından zayıf bulunan Adrianopolis Kapısına Bizans İmparatoru Konstantin ve askerleri konuşlandı."
+                }
+            ]
+        }
+    ]
+}

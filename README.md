@@ -80,6 +80,9 @@ Eğittiğimiz modelleri kullanarak bir web arayüzü tasarladık. Kullanıcı me
 ![alt text](https://github.com/okanvk/ENELPI---Soru-Cevap-Sistemi/blob/master/images/images1.jpeg?raw=true)
 ![alt text](https://github.com/okanvk/ENELPI---Soru-Cevap-Sistemi/blob/master/images/images5.jpeg?raw=true)
 
+Pytorch modelleri repoya büyüklüğünden dolayı eklenmemiştir.
+İstenen modellere göre modeller, şuradan indirilebilir,
+https://huggingface.co/enelpi
 
 ## Gereksinimler
 - Python

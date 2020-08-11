@@ -1,13 +1,14 @@
 
 from transformers import AutoTokenizer,AutoModelForQuestionAnswering
 import torch
-import tensorflow as tf
+
 
 class BertQAService():
 
     def __init__(self):
-        self.tokenizer = AutoTokenizer.from_pretrained("./bert-base-cased-qa-tr-squad/",from_tf=True)
-        self.model = AutoModelForQuestionAnswering.from_pretrained("./bert-base-cased-qa-tr-squad/",from_tf=True)
+        self.tokenizer = AutoTokenizer.from_pretrained("enelpi/bert-question-answering-cased-squadv2_tr")
+        self.model = AutoModelForQuestionAnswering.from_pretrained("enelpi/bert-question-answering-cased-squadv2_tr")
+        
 
 
     def ask_question(self,question,context):

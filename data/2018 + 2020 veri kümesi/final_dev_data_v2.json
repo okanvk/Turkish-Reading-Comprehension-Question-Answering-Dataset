@@ -1490,7 +1490,7 @@
                               "id": 10080,
                               "answers": [
                                   {
-                                      "answer_start": 408,
+                                      "answer_start": 405,
                                       "text": "IV. İvan"
                                   }
                               ]
@@ -3185,7 +3185,7 @@
                                   "id": 78,
                                   "answers": [{
                                           "answer_start": 763,
-                                          "text": "Türklerden bu Hristiyan milletleri için reformlar (Islahat Fermanı) istemek olacaktır "
+                                          "text": "Türklerden bu Hristiyan milletleri için reformlar (Islahat Fermanı) istemek olacaktır."
                                       }
                                   ]
                               }, {
@@ -3308,7 +3308,7 @@
                                   "question": "Kavalalı Mehmet Ali Paşa ne zaman Mısır valisi olmuştur ?",
                                   "id": 93,
                                   "answers": [{
-                                          "answer_start": 333,
+                                          "answer_start": 332,
                                           "text": "(1804)."
                                       }
                                   ]
@@ -3952,7 +3952,7 @@
                                   "question": "Rusya sekiz parçalık bir filosunu Karadeniz Boğazı’ndan geçirerek Büyükdere önlerine ne zaman demirletti ?",
                                   "id": 176,
                                   "answers": [{
-                                          "answer_start": 1753,
+                                          "answer_start": 1752,
                                           "text": "(20 Şubat 1833)."
                                       }
                                   ]
@@ -4172,7 +4172,7 @@
                                   "question": "Münchengraetz Antlaşması ne zaman imzalandı ?",
                                   "id": 202,
                                   "answers": [{
-                                          "answer_start": 2217,
+                                          "answer_start": 2216,
                                           "text": "(18 Eylül 1833),"
                                       }
                                   ]

@@ -39,7 +39,7 @@ Soru cevaplama (Question Answering), insanların doğal dilde yönelttikleri sor
 Toplam Veri Sayıları
 |               |  Başlık/Title  |   Paragraf/Context   | Question-Answer / Soru-Cevap |
 | ------------- |:--------------:|:--------------------:|:----------------------------:|
-|     Train     |      750       |       2370           |           14107              |
+|     Train     |      750       |       2370           |           14098              |
 |     Test      |      85        |        301           |            1330              |
 
 
@@ -54,7 +54,7 @@ Biz çalışmamızda bu algoritmayı kullanarak ve parametrelerini değiştirere
 
 | Model/Hyperparameters | epoch | max_seq_length | learning_rate | per_gpu_train_batch_size |
 |:----------------------|:-----:|:--------------:|:-------------:|:------------------------:|
-|    BERT, Uncased    |   7   |      384       |     3e-5      |           16             |
+|    BERT, Uncased      |   7   |      384       |     3e-5      |           16             |
 |    BERT, Cased        |   5   |      384       |     3e-5      |           16             |
 
 
@@ -70,7 +70,7 @@ Biz çalışmamızda bu algoritmayı kullanarak ve parametrelerini değiştirere
 |:----------------|:--------:|:----------:|:------------:|
 | Electra         | 78.87011 |  57.80031  |     0.42     |   
 | BERT, Cased     | 80.15858 |  61.85647  |      -       |
-| BERT, Uncased | 79.9342  |  61.70044  |      -       |
+| BERT, Uncased   | 79.9342  |  61.70044  |      -       |
 
 
 ## Web Uygulaması
@@ -102,3 +102,6 @@ https://huggingface.co/enelpi
 
 ## Teşekkür
 Bu çalışmayı yapmamız sırasında bizden desteklerini esirgemeyen Fatih SOYGAZİ'ye ve mentorumuz Yusuf YİĞİT'e çok teşekkür ederiz.
+
+
+## Citation

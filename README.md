@@ -39,7 +39,7 @@ Soru cevaplama (Question Answering), insanların doğal dilde yönelttikleri sor
 Toplam Veri Sayıları
 |               |  Başlık/Title  |   Paragraf/Context   | Question-Answer / Soru-Cevap |
 | ------------- |:--------------:|:--------------------:|:----------------------------:|
-|     Train     |      750       |       2370           |           14098              |
+|     Train     |      756       |       2400           |           14224              |
 |     Test      |      85        |        301           |            1330              |
 
 
@@ -66,11 +66,11 @@ Biz çalışmamızda bu algoritmayı kullanarak ve parametrelerini değiştirere
 
 
 ### RESULTS
-|   Model/Score   |    F1    |    Exact   |  Loss Exact  |
-|:----------------|:--------:|:----------:|:------------:|
-| Electra         | 78.87011 |  57.80031  |     0.42     |   
-| BERT, Cased     | 80.15858 |  61.85647  |      -       |
-| BERT, Uncased   | 79.9342  |  61.70044  |      -       |
+|   Model/Score   |    F1    |    Exact   |
+|:----------------|:--------:|:----------:|
+| Electra         | 81.33747 |  62.55850  | 
+| BERT, Cased     | 80.15858 |  61.85647  | 
+| BERT, Uncased   | 79.9342  |  61.70044  |
 
 
 ## Web Uygulaması

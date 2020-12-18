@@ -62,13 +62,15 @@ Biz çalışmamızda bu algoritmayı kullanarak ve parametrelerini değiştirere
 
 | Model/Hyperparameters | epoch | max_seq_length | per_gpu_train_batch_size |
 |:----------------------|:-----:|:--------------:|:------------------------:|
-|     Electra           |   5    |     512       |           16             |        
+|     Electra           |   5    |     512       |           16             |  
+|     Electra           |   3    |     512       |           16             |  
 
 
 ### RESULTS
 |   Model/Score   |    F1    |    Exact   |
 |:----------------|:--------:|:----------:|
-| Electra         | 81.33747 |  62.55850  | 
+| Electra - 5 Ep  | 81.33747 |  62.55850  | 
+| Electra - 3 Ep  | 80.74756 |  61.23244  | 
 | BERT, Cased     | 80.15858 |  61.85647  | 
 | BERT, Uncased   | 79.9342  |  61.70044  |
 

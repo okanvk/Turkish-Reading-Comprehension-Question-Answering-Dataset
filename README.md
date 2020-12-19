@@ -67,7 +67,7 @@ Biz çalışmamızda bu algoritmayı kullanarak ve parametrelerini değiştirere
 | Model/Hyperparameters | epoch | max_seq_length | learning_rate | per_gpu_train_batch_size |
 |:-------------------------------------|:-----:|:--------------:|:-------------:|:------------------------:|
 |    Albert, Uncased#1- SentencePiece  |   5   |      512       |     3e-5      |           16             |
-|    Albert, Uncased#1- WordPiece.     |   5   |      512       |     3e-5      |           16             |
+|    Albert, Uncased#2- WordPiece.     |   5   |      512       |     3e-5      |           16             |
 
 
 ### ELECTRA

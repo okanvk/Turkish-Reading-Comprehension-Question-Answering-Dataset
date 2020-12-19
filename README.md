@@ -55,6 +55,15 @@ Biz çalışmamızda bu algoritmayı kullanarak ve parametrelerini değiştirere
 | Model/Hyperparameters | epoch | max_seq_length | learning_rate | per_gpu_train_batch_size |
 |:----------------------|:-----:|:--------------:|:-------------:|:------------------------:|
 |    BERT, Cased#1      |   3   |      256       |     3e-5      |           16             |
+|    BERT, Cased#2      |   3   |      384       |     3e-5      |           16             |
+
+
+### ALBERT
+
+| Model/Hyperparameters | epoch | max_seq_length | learning_rate | per_gpu_train_batch_size |
+|:----------------------|:-----:|:--------------:|:-------------:|:------------------------:|
+|    Albert, Uncased#1  |   3   |      256       |     3e-5      |           16             |
+|    Albert, Uncased#1  |   3   |      384       |     3e-5      |           16             |
 
 
 ### ELECTRA
@@ -73,6 +82,7 @@ Biz çalışmamızda bu algoritmayı kullanarak ve parametrelerini değiştirere
 |    Electra#2.   | 80.74756 |  61.23244  | 
 |    Electra#3.   | 80.11426 |  60.60842  | 
 | BERT, Cased#1   | 79.78570 |  61.54446  |
+| BERT, Cased#2   | 80.02698 |  61.38845  |
 
 
 ## Web Uygulaması

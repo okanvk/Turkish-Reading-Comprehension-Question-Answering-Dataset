@@ -55,36 +55,38 @@ Biz çalışmamızda bu algoritmayı kullanarak ve parametrelerini değiştirere
 | Model/Hyperparameters | epoch | max_seq_length | learning_rate | per_gpu_train_batch_size |
 |:----------------------|:-----:|:--------------:|:-------------:|:------------------------:|
 |    BERT, Cased#1      |   3   |      256       |     3e-5      |           16             |
-|    BERT, Cased#2      |   3   |      384       |     3e-5      |           16             |
-|    BERT, Cased#3      |   5   |      256       |     3e-5      |           16             |
-|    BERT, Cased#4      |   5   |      384       |     3e-5      |           16             |
+|    BERT, Cased#2      |   3   |      384       |     3e-5      |           16             | 
+|    BERT, Cased#3      |   3   |      512       |     3e-5      |           16             |
+|    BERT, Cased#4      |   5   |      256       |     3e-5      |           16             |
+|    BERT, Cased#5      |   5   |      384       |     3e-5      |           16             |
+|    BERT, Cased#6      |   5   |      512       |     3e-5      |           16             |
 
 
 ### ALBERT
 
 | Model/Hyperparameters | epoch | max_seq_length | learning_rate | per_gpu_train_batch_size |
 |:----------------------|:-----:|:--------------:|:-------------:|:------------------------:|
-|    Albert, Uncased#3  |   5   |      384       |     3e-5      |           16             |
-|    Albert, Uncased#4  |   5   |      512       |     3e-5      |           16             |
+|    Albert, Uncased#1  |   5   |      512       |     3e-5      |           16             |
 
 
 ### ELECTRA
 
-| Model/Hyperparameters | epoch | max_seq_length | per_gpu_train_batch_size |
+| Model/Hyperparameters | epoch | max_seq_length | per_gpu_train_batch_size | 
 |:----------------------|:-----:|:--------------:|:------------------------:|
-|     Electra#1         |   5    |     512       |           16             |  
-|     Electra#2         |   3    |     512       |           16             |  
-|     Electra#2         |   3    |     384       |           16             |  
+|   Electra, Cased#1    |   5    |     512       |           16             |
+|   Electra, Cased#2    |   3    |     512       |           16             |
+|   Electra, Cased#3    |   3    |     384       |           16             | 
 
 
 ### RESULTS
 |   Model/Score   |    F1    |    Exact   |
 |:----------------|:--------:|:----------:|
 |    Electra#1    | 81.33747 |  62.55850  | 
-|    Electra#2.   | 80.74756 |  61.23244  | 
-|    Electra#3.   | 80.11426 |  60.60842  | 
-| BERT, Cased#1   | 79.78570 |  61.54446  |
-| BERT, Cased#2   | 80.02698 |  61.38845  |
+|    Electra#2    | 80.74756 |  61.23244  | 
+|    Electra#3    | 80.11426 |  60.60842  |
+|    BERT#1       | 79.78570 |  61.54446  |
+|    BERT#2       | 80.02698 |  61.38845  |
+|    Albert#1     | 69.91283 |  48.90795  |
 
 
 ## Web Uygulaması

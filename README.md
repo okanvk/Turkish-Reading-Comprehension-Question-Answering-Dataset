@@ -1,7 +1,8 @@
 # ENELPİ - Soru Cevap Sistemi
 
 ## Biz kimiz ?
-Merhaba biz Adnan Menderes Üniversitesi Bilgisayar Mühendisliği Bölümünden 2020 yılı itibariyle mezun olmuş üç arkadaşız. Adlarımız sırasıyla Okan Çifti, Uğurcan Kök ve Filiz Gözet. Üçümüz de bölüme girdiğimizden beri Doğal Dil İşleme üzerine çalışmaktayız. Bu yüzden Türkiye Açık Kaynak Platformu'nun Türkçe Doğal Dil İşleme konusunda farkındalık oluşturmak amacıyla düzenlediği bu yarışmaya katılarak biz de çalışmalara katkı sağlamak istedik.
+Merhaba biz Adnan Menderes Üniversitesi Bilgisayar Mühendisliği Bölümünden 2020 yılı itibariyle mezun olmuş üç arkadaşız. Adlarımız sırasıyla Okan Çiftçi, Uğurcan Kök ve Filiz Gözet. Üçümüz de bölüme girdiğimizden beri Doğal Dil İşleme üzerine çalışmaktayız. Bu yüzden Türkiye Açık Kaynak Platformu'nun Türkçe Doğal Dil İşleme konusunda farkındalık oluşturmak amacıyla düzenlediği bu yarışmaya katılarak biz de çalışmalara katkı sağlamak istedik.
+01.09.2020 Soner Cengiz projeye katıldı.
 
 ## Soru Cevaplama
 Soru cevaplama (Question Answering), insanların doğal dilde yönelttikleri soruları otomatik olarak cevaplayan yapı sistemleri ile ilgilenen, bilgi alma ve doğal dil işleme (NLP) alanlarında bir bilgisayar bilimi disiplinidir. Teknolojinin hızla gelişmesiyle beraber artan verileri sorgulama önemli bir hal almıştır. Biz de bu yüzden henüz Türkçe'de çok kullanımı olmayan BERT ve ELECTRA algoritmalarını kullanarak verilen metne bağlı sorulan soruların cevaplandırılması üzerinde çalıştık.
@@ -60,6 +61,7 @@ Biz çalışmamızda bu algoritmayı kullanarak ve parametrelerini değiştirere
 |    BERT, Cased#4      |   5   |      256       |     3e-5      |           16             |
 |    BERT, Cased#5      |   5   |      384       |     3e-5      |           16             |
 |    BERT, Cased#6      |   5   |      512       |     3e-5      |           16             |
+|    BERT, Uncased#7    |   3   |      512       |     3e-5      |           16             |
 
 
 ### ALBERT
@@ -90,6 +92,7 @@ Biz çalışmamızda bu algoritmayı kullanarak ve parametrelerini değiştirere
 |    BERT#4       | 80.31376 |  62.16848  |
 |    BERT#5       | 80.54542 |  62.24648  |
 |    BERT#6       | 80.71284 |  62.01248  |
+|    BERT#7       | 79.19508 |  59.82839  |
 |    Albert#1     | 69.91283 |  48.90795  |
 
 

@@ -86,6 +86,7 @@ Biz çalışmamızda bu algoritmayı kullanarak ve parametrelerini değiştirere
 |    Electra#3    | 80.11426 |  60.60842  |
 |    BERT#1       | 79.78570 |  61.54446  |
 |    BERT#2       | 80.02698 |  61.38845  |
+|    BERT#3       | 81.19225 |  62.63650  |
 |    BERT#4       | 80.31376 |  62.16848  |
 |    BERT#5       | 80.54542 |  62.24648  |
 |    BERT#6       | 80.71284 |  62.01248  |

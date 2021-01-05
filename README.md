@@ -83,7 +83,7 @@ Biz çalışmamızda bu algoritmayı kullanarak ve parametrelerini değiştirere
 ### RESULTS
 |   Model/Score   |    F1    |    Exact   |
 |:----------------|:--------:|:----------:|
-|    Electra#1    | 81.33747 |  62.55850  | 
+|    Electra#1    | 81.55487 |  63.08270  | 
 |    Electra#2    | 80.74756 |  61.23244  | 
 |    Electra#3    | 80.11426 |  60.60842  |
 |    BERT#1       | 79.78570 |  61.54446  |

@@ -1,5 +1,6 @@
 # ENELPİ - Soru Cevap Sistemi
 
+Bildiriye erişmek için -> https://ieeexplore.ieee.org/document/9559013
 ## Biz kimiz ?
 Merhaba biz Adnan Menderes Üniversitesi Bilgisayar Mühendisliği Bölümünden 2020 yılı itibariyle mezun olmuş üç arkadaşız. Adlarımız sırasıyla Okan Çiftçi, Uğurcan Kök ve Filiz Gözet. Üçümüz de bölüme girdiğimizden beri Doğal Dil İşleme üzerine çalışmaktayız. Bu yüzden Türkiye Açık Kaynak Platformu'nun Türkçe Doğal Dil İşleme konusunda farkındalık oluşturmak amacıyla düzenlediği bu yarışmaya katılarak biz de çalışmalara katkı sağlamak istedik.
 01.09.2020 Soner Cengiz projeye katıldı.
@@ -128,3 +129,5 @@ Bu çalışmayı yapmamız sırasında bizden desteklerini esirgemeyen Fatih SOY
 
 
 ## Citation
+F. Soygazi, O. Çiftçi, U. Kök and S. Cengiz, "THQuAD: Turkish Historic Question Answering Dataset for Reading Comprehension," 2021 6th International Conference on Computer Science and Engineering (UBMK), 2021, pp. 215-220, doi: 10.1109/UBMK52708.2021.9559013.
+
